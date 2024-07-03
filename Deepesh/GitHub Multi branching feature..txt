@@ -28,5 +28,19 @@ From https://github.com/sqatools/GTM_PS_Batch05
 
 8. create a file in your specific folder with branch_name o identify
 
+9. Go to git terminal and check file status with command
+   -> git status : newly added file will show in red color
 
+10. add file with given command
+   -> git add .
+
+11. check file status again
+    -> git status : files will be visible in green color
+
+12. initiate the commit with command.
+    -> git commit -m  "adding feature file"
+
+
+13. push local changes to github server.
+    -> git push
 
