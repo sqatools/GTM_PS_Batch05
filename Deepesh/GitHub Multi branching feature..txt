@@ -1,0 +1,32 @@
+# GitHub Multi branching feature.
+
+1. Open GitHub repository
+2. Create branch with your name:  name_feature
+   from all branches URL : https://github.com/sqatools/GTM_PS_Batch05/branches
+3. Go to local system -> open git bash terminal in repo location
+4. then user git pull command to check the branch we have created.
+
+From https://github.com/sqatools/GTM_PS_Batch05
+ * [new branch]      Anil_Branch        -> origin/Anil_Branch
+ * [new branch]      Lokesh_Branch      -> origin/Lokesh_Branch
+ * [new branch]      Madhu_feature      -> origin/Madhu_feature
+ * [new branch]      Madhuri_Feature    -> origin/Madhuri_Feature
+ * [new branch]      Mayuri_feature     -> origin/Mayuri_feature
+ * [new branch]      aman_feature       -> origin/aman_feature
+ * [new branch]      deepesh_feature    -> origin/deepesh_feature
+ * [new branch]      feature2_branch    -> origin/feature2_branch
+ * [new branch]      kalpashree_feature -> origin/kalpashree_feature
+   ab69f03..0cef397  main               -> origin/main
+ * [new branch]      srinivas_feature   -> origin/srinivas_feature
+ * [new branch]      subham_feature     -> origin/subham_feature
+
+5. run command 'git branch', it will show main branch in green color
+6. now switch to your branch with the command
+   -> git checkout your_branch_name
+7. once branch is switched the check the current with command
+   -> git branch : it will highlight your branch in green color
+
+8. create a file in your specific folder with branch_name o identify
+
+
+
