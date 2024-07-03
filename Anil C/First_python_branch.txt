@@ -1,0 +1,87 @@
+sai@DESKTOP-TIDPKQC MINGW64 ~/GTM_PS_Batch05 (main)
+$ git commi -m "adding my file"
+git: 'commi' is not a git command. See 'git --help'.
+
+The most similar commands are
+        commit
+        column
+        config
+
+sai@DESKTOP-TIDPKQC MINGW64 ~/GTM_PS_Batch05 (main)
+$ git config --global user.email "anil0792.abc@gmailcom"
+
+sai@DESKTOP-TIDPKQC MINGW64 ~/GTM_PS_Batch05 (main)
+$ git config --global user.name "Anil0792"
+
+sai@DESKTOP-TIDPKQC MINGW64 ~/GTM_PS_Batch05 (main)
+$ git push
+To https://github.com/sqatools/GTM_PS_Batch05.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/sqatools/GTM_PS_Batch05.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+sai@DESKTOP-TIDPKQC MINGW64 ~/GTM_PS_Batch05 (main)
+$ git pull
+remote: Enumerating objects: 12, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 9 (delta 2), reused 9 (delta 2), pack-reused 0
+Unpacking objects: 100% (9/9), 768 bytes | 2.00 KiB/s, done.
+From https://github.com/sqatools/GTM_PS_Batch05
+   fe6f92a..1a5368a  main       -> origin/main
+Updating fe6f92a..1a5368a
+Fast-forward
+ Aman/first_file.txt                | 1 +
+ Mayuri_Python/First_text_file.txt  | 1 +
+ Mayuri_Python/GTM_PS_Batch05       | 1 +
+ Mayuri_Python/Second_text_file.txt | 1 +
+ 4 files changed, 4 insertions(+)
+ create mode 100644 Aman/first_file.txt
+ create mode 160000 Mayuri_Python/GTM_PS_Batch05
+ create mode 100644 Mayuri_Python/Second_text_file.txt
+
+sai@DESKTOP-TIDPKQC MINGW64 ~/GTM_PS_Batch05 (main)
+$ git push
+Everything up-to-date
+
+sai@DESKTOP-TIDPKQC MINGW64 ~/GTM_PS_Batch05 (main)
+$  git commit -m "adding my file"
+[main 4d51231] adding my file
+ 3 files changed, 3 insertions(+)
+ create mode 100644 Anil C/First_Class.txt
+ create mode 100644 Anil C/First_Python_class.txt
+ create mode 100644 Anil C/PythonClass.txt
+
+sai@DESKTOP-TIDPKQC MINGW64 ~/GTM_PS_Batch05 (main)
+$ git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (6/6), 449 bytes | 449.00 KiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/sqatools/GTM_PS_Batch05.git
+   1a5368a..4d51231  main -> main
+
+sai@DESKTOP-TIDPKQC MINGW64 ~/GTM_PS_Batch05 (main)
+$ git pull
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 4 (delta 2), reused 4 (delta 2), pack-reused 0
+Unpacking objects: 100% (4/4), 484 bytes | 2.00 KiB/s, done.
+From https://github.com/sqatools/GTM_PS_Batch05
+   4d51231..1e3f422  main       -> origin/main
+Updating 4d51231..1e3f422
+Fast-forward
+ GTM_PS_Batch05 | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 160000 GTM_PS_Batch05
+
+sai@DESKTOP-TIDPKQC MINGW64 ~/GTM_PS_Batch05 (main)
+$
