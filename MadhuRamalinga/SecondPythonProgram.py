@@ -1,1 +1,1 @@
-print("Secong Python Program")
+print("Second Python Program")
