@@ -1,2 +1,3 @@
-print ("hello world")
-print ("welocome to python")
+print("hello world")
+print("welcome to python")
+print("python is uptodate")
