@@ -1,74 +1,123 @@
-a = 50
-# a : variable
-# = : assignment operator
-# 50 : value
-print(a)
-
-address_a = id(a)
-print("address of a :", address_a)
-
-# if all variable have same value, then their address location is also same
-p = 60
-q = 60
-r = 60
-add_p = id(p)
-print("address p :",add_p) # 140733310390552
-print("address q :",id(q)) # 140733310390552
-print("address r :",id(r)) # 140733310390552
-
-# assign multiple variable and different at a time
-
-x, y, z = 30, 40, 50
-print("value of x :", x)
-print("value of y :", y)
-print("value of z :", z)
-
-print(" value x:", x, end="||")
-print(" value y:", y, end="||")
-print(" value z:", z)
-# value x: 30|| value y: 40|| value z: 50||
-
-# Assign same value to multiple variables
-
-a = b = c = 70
-print("value of a :", a) # 70
-print("value of b :", b) # 70
-print("value of c :", c) # 70
-
-######  Rule to define the variables #######
-# 1. there should not be space in variable name
-# first name = 'rahul' # invalid variable
-first_name = 'rahul'  # correct name
-
-# 2. Variable name can not start with number
-# 123_abc = 500 : invalid variable
-abc_123 = 500 # valid name
-
-# 3.  Variable name can not contains special character
-
-# var_1_%_xyz = 600  : invalid name-> special character is not allowed
-# var_1_@#$%^&* = 800 : invalid
-_var_xyz_pqr = 700   # valid name
-
-# 4. there is no length limit to defined variable
-python_programming_variable_xyz_pqr = 8989080 # valid name
-var1= "Hello" # valid name
-
-# 5. Python variable is case sensitive
-
-name = "Mohit"
-Name = "Rahul"
-NamE = "Aman"
-namE = "John"
-NAME = "Python"
-print(name, Name, NamE, namE, NAME)
-# Mohit Rahul Aman John Python
-
-"""
-# Math operator
+p, q, r = 30, 40, 50
+print("p :", p, "q :", q, "r :", r)
 
 
+a = b = c = 50
+print(a, b, c)
 
+#x, y, z, = 30
+#print("x :",x, "y:", y, "z:", z)
+# TypeError: cannot unpack non-iterable int object
+
+
+# 123abc = 100 # invalid
+# abc_123, abc123, ab_c123
+# xyz$pqr = 4000 : invalid
+# print(xyz)
 
 
 """
+Math operator
++ : plus operator
+- : subtraction operator
+* : multiple operator
+/ : divide with single slace
+// : divide with double slace
+== : equal to operator
+!= : not equal operator
+% : remainder operator
+** : power operator
+"""
+
+###### Addition of values ###
+
+var1 = 50
+var2 = 60
+print("addition of number :", var1+var2) # 110
+
+str1= "Hello"
+str2 = "Good Morning"
+print("add two word :", str1 +" "+str2)  # Hello Good Morning
+
+#########
+# assign empty value
+str3 = None
+print(str3)
+
+####### multiplication #############
+v1= 50
+v2 = 6
+print("multiplication :", v1*v2) #  300
+
+str1 = "Python"
+print("multiply number with string :", str1*5)
+# PythonPythonPythonPythonPython
+
+print("5"*50)
+# 55555555555555555555555555555555555555555555555555
+print("_"*50)
+#__________________________________________________
+print("$"*5*5)
+# $$$$$$$$$$$$$$$$$$$$$$$$$
+print(15*"&")
+# &&&&&&&&&&&&&&&
+
+#print("Hello"*"Python")
+# can't multiply sequence by non-int of type 'str'
+
+##########subtraction ###########
+print("_"*50)
+
+a1 = 60
+b1 = 30
+print("subtraction 1:", a1-b1) # 30
+print("subtraction 2:", b1-a1) # -30
+
+########## Division ###########
+print("_"*50)
+
+a2 = 50.45
+b2 = 7
+
+print("divide with single / :", a2/b2) # 8.333333333333334
+print("divide with single // :", a2//b2) # 8
+
+print("")
+################ remainder #########
+print("_"*50)
+p1 = 13
+p2 = 5
+
+print("remainder value :", p1%p2)
+
+num1 = 16
+remainder = num1%2
+print(remainder == 0)
+
+###########equal to operator ########
+print("_"*50)
+x = 50
+y = 60
+z = 50
+# compare both variable have same value
+print(x == y) # False
+print(x == z) # True
+print(x != y) # True
+
+
+########## power operator #########
+
+print("square of 4:", 4**2)
+print("cube of 3:", 3**3)
+print("square of 5:", 5**2)
+print("cube of 5:", 5**3)
+
+##################### solve the below quadratic equation #########
+# (a+b)^2  = a^2 + b^2 + 2ab
+a = 5
+b = 6
+lhs = (a+b)**2
+rhs = a**2 + b**2 + 2*a*b
+print("LHS :", lhs)
+print("RHS :", rhs)
+print(lhs == rhs)
