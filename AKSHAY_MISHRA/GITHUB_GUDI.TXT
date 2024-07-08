@@ -1,0 +1,26 @@
+1.create a git hub account on github.com
+2.install gitclient on windows machines.
+3.get git repository url:https://github.com/sqatools/GTM_PS_Batch05.git
+4.CREATE A PROJECT FOLDER AND OPEN GIT TERMINAL IN THE SAME DIRECTORY
+5.clone the common repo with below command 
+   git clone https://github.com/sqatools/GTM_PS_Batch05.git
+6.ONCE THE REPO IS CLONED,THEN REPO FOLDER FOLDER WILL BE CREATED ON LOCAL SYSTEM
+7.NAVIGATE TO REPO FOLDER IN THE GIT TERMINAL WITH GIVEN COMMAND 
+CD GTM_PS_BATCH05/
+8.create a folder inside repo folder and create a file inside a user folder e.g.first_file.txt
+9.git status:new add folder will show in red color
+10.git add the new added file and folder
+11.git commit -m "adding first file":commit will be initiated
+12.git push:newly created folder and file will be pushed to the server.
+13.if you dace issue while pushing the changes then,run a command git pull
+14.then a git editor will be open,then close the git edit with steps
+1: press escape key
+2:then type:qw->press enter
+3:once we press enter the git editor will be closed.
+15.then again try to push your changes.
+git push
+
+akshaymishra6767@gmail.com
+Github@67
+  git config --global user.email "akshaymishra6767@gmail.com"
+  git config --global user.name "akshaymishr"
