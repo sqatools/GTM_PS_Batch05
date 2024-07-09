@@ -1,0 +1,2 @@
+-git clone repo_link
+-git status (it will show newly fill add show in green color)
