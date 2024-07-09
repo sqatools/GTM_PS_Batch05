@@ -117,6 +117,118 @@ print(LHS == RHS)
 
 print("-"*30)
 
+####12)Python program to solve the given math formula.
+#Formula : (a + b)3 = a3 + 3ab(a+b) + b3
+a=2
+b=3
+LHS=(a+b)**3
+RHS=a**3+3*a*b*(a+b)+b**3
+print("LHS of cube :", LHS)
+print("RHS of cube:", RHS)
+print(LHS == RHS)
+print("Result of (a + b)3 =", RHS)
+
+print("-"*30)
+
+####13) Python program to solve the given math formula.
+#Formula : (a – b)3 = a3 – 3a2b + 3ab2 – b3
+a=6
+b=3
+LHS=(a-b)**3
+RHS=a**3 - 3*a**2*b + 3*a*b**2 -b**3
+print("LHS of minus cube :", LHS)
+print("RHS of minus cube:", RHS)
+print(LHS == RHS)
+print("Result of (a - b)3 =", RHS)
+
+print("-"*30)
+
+####14)Python program to calculate the area of the square.
+#Formula : area = a*a
+a=6
+area=a*a
+print("area value:", area)
+
+print("-"*30)
+
+###15) Python program to calculate the area of a circle.
+"""Formula = PI*r*r
+r = radius
+PI = 3.14"""
+
+r=6
+PI=3.14
+area=PI*r*r
+print("Area of Circle:", area)
+print("Area of Circle2", PI*r*r)
+
+print("-"*30)
+
+####16) Python program to calculate the area of a cube.
+#Formula = 6*a*a
+
+a=5
+val=6*a*a
+print("Area of a Cube :", 6*a*a)
+print("Area of a Cube2 :", val)
+
+print("-"*30)
+
+#####17) Python program to calculate the area of the cylinder.
+#Formula = 2*PI*r*h + 2*PI*r*r
+r=5
+h=7
+PI=3.14
+area=2*PI*r*h + 2*PI*r*r
+print("area of the cylinder :", area)
+
+print("-"*30)
+
+#####18) Python program to check whether the given number is an Armstrong number or not.
+#Example: 153 = 1*1*1 + 5*5*5 + 3*3*3
+
+LHS=153
+RHS=1*1*1 + 5*5*5 +3*3*3
+print("LHS :", LHS)
+print("RHS :", RHS)
+print(LHS == RHS)
+
+print("-"*30)
+
+#####19) Python program to calculate simple interest.
+"""Formula = P+(P/r)*t
+P = Principle Amount
+r = Anual interest rate
+t = time"""
+P=10000
+r=12
+t=3
+Interest=P+(P/r)*t
+print("interest: ", Interest)
+
+print("-"*30)
+
+###20) Python basic program to calculate compound interest
+# using formula p*((1+r/100)**n).
+p=10000
+r=12
+n=3
+compound=p*((1+r/100)**n)
+print("compound interest :", compound)
+
+print("-"*30)
+
+####21) Python program to calculate the volume of a sphere.
+"""Formula = (4/3*pi*r^2)
+r = radius
+pi = 3"""
+PI=3.14
+r=5
+sphere=(4/3*PI*r**2)
+print("volume of a sphere :", sphere)
+
+print("-"*30)
+
 
 
 
