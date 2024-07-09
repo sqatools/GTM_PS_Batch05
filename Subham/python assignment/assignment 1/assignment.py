@@ -1,25 +1,21 @@
 #add two number
-a= 9
-b= 10
+a=8
+b=9
 print(a+b)
 
-#substract two number
-
-b = 7
-c = 5
-print(b-c)
+#subtract two number
+a=60
+b=35
+print(a-b)
 
 #multiply two number
+d=80
+p=5
+print(d*p)
 
-v= 5
-x= 5
-print(v*x)
-
-# five time integer number
-
+#repeat string 5 times
 a= ("subham")
 print("subham"*5)
-
 
 # average number
 
@@ -27,6 +23,7 @@ b=40
 c=30
 d=10
 print("average:",(b+c+d)//3)
+
 
 #squre and cube
 
@@ -51,7 +48,6 @@ rhs=a**2+b**2+2*a*b
 print("lhs:", lhs)
 print("rhs:", rhs)
 print (lhs == rhs)
-
 
 #math formula
 #(a – b)2 = a^2 + b^2 – 2ab
@@ -85,6 +81,35 @@ print (lhs == rhs)
 
 #area sqaure
 #area = a*a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
