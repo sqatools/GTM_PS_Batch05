@@ -8,22 +8,22 @@ print("-"*30)
 ######2) Python Program to subtract two integer values.
 a=90
 b=35
-print("Subtract two integer values:", a-b)
+print("Subtract two integer values:", a-b) # 55
 
 print("-"*30)
 
 ########3)Python program to multiply two numbers.
 a=56
 b=7
-print("Multiply two number values:", a*b)
+print("Multiply two number values:", a*b)  #392
 
 print("-"*30)
 
 #######4)Python program to repeat a given string 5 times.
-print("Hi Python" " "*5)
+print("Hi Python" " "*5) #Hi Python Hi Python Hi Python Hi Python Hi Python
 
 str="Hi Python"
-print(str*5)
+print(str*5)  #Hi PythonHi PythonHi PythonHi PythonHi Python
 
 print("-"*30)
 
@@ -33,7 +33,7 @@ print("-"*30)
 a = 40
 b = 50
 c = 30
-print("Avg no:", (a+b+c)/3)
+print("Avg no:", (a+b+c)/3)  #40.0
 
 print("-"*30)
 
@@ -44,8 +44,8 @@ Output :
 Square = 81
 Cube =   729"""
 a=9
-print("Square of a is :", a**2)
-print("Cube of a is :", a**3)
+print("Square of a is :", a**2) #81
+print("Cube of a is :", a**3) #729
 
 print("-"*30)
 
@@ -58,8 +58,8 @@ a = 20
 b = 10"""
 a=10
 b=20
-print("Values of a :", b)
-print("Value of b :", a)
+print("Values of a :", b)  #20
+print("Value of b :", a)   #10
 
 print("-"*30)
 
@@ -70,13 +70,13 @@ b=4
 c=5
 LHS= (a**2 + b**2)
 RHS= c**2
-print("LHS :", LHS)
-print("RHS :", RHS)
+print("LHS :", LHS)  #25
+print("RHS :", RHS)  #25
 
 a=3
 b=4
 val=(a**2 + b**2)
-print("Seconf method Pythagorous theorem", val)
+print("Seconf method Pythagorous theorem", val)  #25
 
 print("-"*30)
 
@@ -86,9 +86,9 @@ x=8
 y=9
 RHS=x**2 + y**2 + 2*x*y
 LHS=(x+y)**2
-print("LHS", LHS)
-print("RHS", RHS)
-print(LHS == RHS)
+print("LHS", LHS)   #289
+print("RHS", RHS)   #289
+print(LHS == RHS)   #True
 
 print("-"*30)
 
@@ -99,9 +99,9 @@ a=2
 b=3
 LHS= (a-b)**2
 RHS= a**2 + b**2 -2*a*b
-print("LHS", LHS)
-print("RHS", RHS)
-print(LHS == RHS)
+print("LHS", LHS)  #1
+print("RHS", RHS)  #1
+print(LHS == RHS)  #True
 
 print("-"*30)
 
@@ -111,9 +111,9 @@ a=8
 b=6
 LHS=(a**2)-(b**2)
 RHS=(a-b)*(a+b)
-print("LHS", LHS)
-print("RHS", RHS)
-print(LHS == RHS)
+print("LHS", LHS)  #28
+print("RHS", RHS)  #28
+print(LHS == RHS)  #True
 
 print("-"*30)
 
@@ -123,10 +123,10 @@ a=2
 b=3
 LHS=(a+b)**3
 RHS=a**3+3*a*b*(a+b)+b**3
-print("LHS of cube :", LHS)
-print("RHS of cube:", RHS)
-print(LHS == RHS)
-print("Result of (a + b)3 =", RHS)
+print("LHS of cube :", LHS)  #125
+print("RHS of cube:", RHS)   #125
+print(LHS == RHS)            #True
+print("Result of (a + b)3 =", RHS)    #125
 
 print("-"*30)
 
@@ -136,10 +136,10 @@ a=6
 b=3
 LHS=(a-b)**3
 RHS=a**3 - 3*a**2*b + 3*a*b**2 -b**3
-print("LHS of minus cube :", LHS)
-print("RHS of minus cube:", RHS)
-print(LHS == RHS)
-print("Result of (a - b)3 =", RHS)
+print("LHS of minus cube :", LHS)    #27
+print("RHS of minus cube:", RHS)     #27
+print(LHS == RHS)                    #True
+print("Result of (a - b)3 =", RHS)   #27
 
 print("-"*30)
 
@@ -147,7 +147,7 @@ print("-"*30)
 #Formula : area = a*a
 a=6
 area=a*a
-print("area value:", area)
+print("area value:", area)    #36
 
 print("-"*30)
 
@@ -159,8 +159,8 @@ PI = 3.14"""
 r=6
 PI=3.14
 area=PI*r*r
-print("Area of Circle:", area)
-print("Area of Circle2", PI*r*r)
+print("Area of Circle:", area)    #113.03999999999999
+print("Area of Circle2", PI*r*r)  #113.03999999999999
 
 print("-"*30)
 
@@ -169,8 +169,8 @@ print("-"*30)
 
 a=5
 val=6*a*a
-print("Area of a Cube :", 6*a*a)
-print("Area of a Cube2 :", val)
+print("Area of a Cube :", 6*a*a)   #150
+print("Area of a Cube2 :", val)    #150
 
 print("-"*30)
 
@@ -180,7 +180,7 @@ r=5
 h=7
 PI=3.14
 area=2*PI*r*h + 2*PI*r*r
-print("area of the cylinder :", area)
+print("area of the cylinder :", area)    #376.8
 
 print("-"*30)
 
@@ -189,9 +189,9 @@ print("-"*30)
 
 LHS=153
 RHS=1*1*1 + 5*5*5 +3*3*3
-print("LHS :", LHS)
-print("RHS :", RHS)
-print(LHS == RHS)
+print("LHS :", LHS)    #153
+print("RHS :", RHS)    #153
+print(LHS == RHS)      #True
 
 print("-"*30)
 
@@ -204,7 +204,7 @@ P=10000
 r=12
 t=3
 Interest=P+(P/r)*t
-print("interest: ", Interest)
+print("interest: ", Interest)   #12500.0
 
 print("-"*30)
 
@@ -214,7 +214,7 @@ p=10000
 r=12
 n=3
 compound=p*((1+r/100)**n)
-print("compound interest :", compound)
+print("compound interest :", compound)   #14049.280000000004
 
 print("-"*30)
 
@@ -225,7 +225,7 @@ pi = 3"""
 PI=3.14
 r=5
 sphere=(4/3*PI*r**2)
-print("volume of a sphere :", sphere)
+print("volume of a sphere :", sphere)  #104.66666666666666
 
 print("-"*30)
 
