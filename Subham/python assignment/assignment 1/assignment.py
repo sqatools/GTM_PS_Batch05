@@ -1,3 +1,4 @@
+<<<<<<<< HEAD:Subham/python assignment/assignment 1/assignment.py
 #add two number
 a=8
 b=9
@@ -14,6 +15,10 @@ p=5
 print(d*p)
 
 #repeat string 5 times
+========
+
+
+>>>>>>>> origin/subham_feature:Subham/second program.py
 a= ("subham")
 print("subham"*5)
 
