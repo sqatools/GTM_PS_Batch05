@@ -231,6 +231,79 @@ print("-"*30)
 
 
 
+############################ Data type##########################
+
+""" I)Numbers : 1)Integer
+                2)Float
+                3)Complex no
+    
+    II)Sequential : 1)String
+                    2)List
+                    3)Tuple
+                    
+    III)Dictionary
+    IV)Set
+    V)Boolean
+    
+I) Number:
+   1)Integer- 
+             *Immutable data type (Unchangable)
+             *Consider +ve and -ve values
+             * No limit
+             *Only whole no
+             
+   2)Float-
+            *Immutable data type (Unchanged)         
+            *Consider +ve and -ve values 
+            *No limit  (length)
+            *Pointer or decimal values
+            
+   3)Complex no-
+              *Combination of Real and Imaginary
+              
+
+II)Sequential:
+   1)String-
+           *Immutable data type
+           *Define Single/Double/Triple quotes
+           *Flows +ve and -ve Indexing
+        Indexing: Ex: 
+                   str_a="PYTHON"
+                   
+                   0  1  2  3  4  5       +ve Indexing
+                   P  Y  T  H  O  N
+                  -6 -5 -4 -3 -2 -1       -ve Indexing
+                  
+                  p(str_a[0])   #P
+                  p(str_a[-6])  #P
+                  
+   2)List-
+          * Mutable data type
+          *It can contain all type of data
+           int, float, str, list, tuple, dict, set, boolean
+          *Consider +ve and -ve values
+          * Values are comma separated
+          
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
