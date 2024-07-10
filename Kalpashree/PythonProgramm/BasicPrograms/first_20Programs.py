@@ -22,4 +22,12 @@ print("Repeat the string by multiplying",StrA*5)
 p1 = 3
 q1 = 8
 r1 = 6
+print("Average of given number:",p1+q1+r1/3)
+
+#### find the median ######
+list = [30,40,70,10,80,60,20]
+list.sort()
+a1 = (len(list))/2
+print("Median:",list[int(a1)])
+
 
