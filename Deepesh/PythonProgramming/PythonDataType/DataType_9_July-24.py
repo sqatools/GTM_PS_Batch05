@@ -198,6 +198,20 @@ print(keyword.kwlist)
 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 
 'return', 'try', 'while', 'with', 'yield']
 """
+#        0     1   2           3
+list2 = ['a', 'b', [4, 7, 8], 'c']
+#        -4   -3   -2          -1
+
+print(list2[1])  # b
+
+print(list2[2])  # [4, 7, 8]
+
+print(list2[2][1])  # 7
+
+
+
+
+
 
 
 
