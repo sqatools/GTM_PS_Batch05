@@ -60,6 +60,37 @@ print("(a + b)2:",result)
 #### formaula (a – b)2 = a^2 + b^2 – 2ab ####
 a2 = 5
 b2 = 2
-result =a2**2+b2**2-2*a2*b2
-print("(a2 + b2)2:",result)
+result2 =a2**2+b2**2-2*a2*b2
+print("(a2 + b2)2:",result2)
+
+####formaula  a2 – b2 = (a-b)(a+b)####
+a1 = 5
+b1 = 2
+result1 =(a1-b1)*(a1+b1)
+print("a2 – b2:",result1)
+
+####formaula(a + b)3 = a3 + 3ab(a+b) + b3 ####
+z= 5
+y= 2
+result3 =z**3+y**3+3*z*y*(z+y)
+print("(z+y)3:", result3)
+
+
+####formaula(a – b)3 = a3 – 3a2b + 3ab2 – b3 ####
+z1=3
+y1=2
+result4 = z1**3-3*z1**2*y1+3*z1*y1**2-y1**3
+print("((a – b)3:", result4)
+
+#####Side of square####
+side = 4 # can also use int(input("Enter the side of a square: "))
+print("Area of sqaure: ",side**2)
+
+######Radius of circle#####
+radius = 3  # other method int(input("Enter radius of circle: "))
+area = 3.14*radius*radius
+print("Area of circle: ",area)
+
+
+
 
