@@ -80,3 +80,6 @@ print(var_b) # False
 var_j = 33.45
 var_k = bool(var_j)
 print(var_k) # True
+
+##################### String #######################
+
