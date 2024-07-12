@@ -91,6 +91,15 @@ radius = 3  # other method int(input("Enter radius of circle: "))
 area = 3.14*radius*radius
 print("Area of circle: ",area)
 
+####area of a cube####
+side = int(input("Enter side of a cube: "))
+area1=6*side*side
+print("Area of cube: ",area1)
 
+####area of the cylinder####
+r = int(input("Enter radius of cylinder: "))
+h = int(input("Enter height of cylinder: "))
+area2= 2*3.14*r*h+2*3.14*r*r
+print("Area of cylinder: ",area2)
 
-
+####check given number is an Armstrong number or noT####
