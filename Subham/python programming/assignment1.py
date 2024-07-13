@@ -89,6 +89,69 @@ print("lhs:",lhs)
 print("rhs:",rhs)
 print(lhs==rhs)
 
+#area of the square
+side=6
+print('are of square:',side*side)
+
+#area of a circle
+#Formula = PI*r*r
+r=6
+pl=3.14
+print("area of circle:",3.14*6*6)
+
+#area of a cube
+#6*a*a
+area=5
+print("cube:",6*5*5)
+
+#area of the cylinder
+r=int(input("enter radius of cylinder:"))
+h=int(input("enter height of cylinder:"))
+print=("area:",2*3.14*r*h+2*3.14*r*r)
+
+#simple interest
+p=7400
+t=9
+r=3
+amount = P+(P/r)*t
+print("simple interst:",amount)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
