@@ -82,7 +82,6 @@ Properties :
 ->  string define with single/double/trip quotes.
 ->  String follows positive and negative indexing
 """
-
 str1 = ''
 str2 = "H"
 str3 = "Good Morning"

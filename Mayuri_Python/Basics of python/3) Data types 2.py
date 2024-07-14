@@ -25,7 +25,7 @@ Properties :
 -> Tuple follows the positive and negative indexing as like string and list.
 -> Tuple defined with round bracket.
 -> We should use tuple where the data is fixed, which is not going to change once it is 
-   defined. e.g  months in year, days in week, number of alphabates.
+   defined. e.g  months in year, days in week, number of alphabets.
 -> Tuple is faster than list in terms of performance.
 """
 
@@ -83,6 +83,7 @@ print("dict2 :", dict2)
 # dict2 : {123: [3, 5, 6], 45.55: {'a': 234, 'b': 678}, (7, 1, 3): {1, 3, 5, 7}, True: 1000}
 
 ################ set data type ############
+
 print("_" * 50)
 """
 properties :
@@ -90,7 +91,7 @@ properties :
 ->  set only store unique values
 ->  set can contains only immutable data type, int, float, string, tuple, boolean
 ->  set is mutable data type
-->  set does not follow any indexing, it store in random order.
+->  set does not follow any i8ndexing, it store in random order.
 """
 
 set1 = {4, 6, 7, 4.5, 'Hello', (4, 6, 7), 4, 4, 6, 6}
