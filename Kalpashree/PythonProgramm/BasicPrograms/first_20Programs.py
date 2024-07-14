@@ -27,8 +27,8 @@ print("Average of given number:",p1+q1+r1/3)
 #### find the median ######
 list = [30,40,70,10,80,60,20]
 list.sort()
-a2 = (len(list))/2
-print("Median:",list[int(a2)])
+med= (len(list))/2
+print("Median:",list[int(med)])
 
 #### Square and Cube of a number#######
 num1 = 5
@@ -91,6 +91,34 @@ radius = 3  # other method int(input("Enter radius of circle: "))
 area = 3.14*radius*radius
 print("Area of circle: ",area)
 
+####area of a cube####
+side = int(input("Enter side of a cube: "))
+area1=6*side*side
+print("Area of cube: ",area1)
 
+####area of the cylinder####
+r = int(input("Enter radius of cylinder: "))
+h = int(input("Enter height of cylinder: "))
+area2= 2*3.14*r*h+2*3.14*r*r
+print("Area of cylinder: ",area2)
 
+####check given number is an Armstrong number or noT####
+numb = g = 370
+rev = 0
 
+while g>0:
+    rem = g%10
+    rev = rev +rem**3
+    g= g//10
+
+if rev == numb:
+    print("It is a armstrong number")
+else:
+    print("It is not a armstrong number")
+
+#####simple interests####
+p = 15000
+r = 10
+t = 5
+amount = p+(p/r)*t
+print("Amount payable: ",amount)
