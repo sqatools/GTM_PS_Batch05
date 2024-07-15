@@ -73,6 +73,7 @@ print(str_f, type(str_f), str_f[3])
 ### float -> dict # conversion is not possible
 ### float -> set # conversion is not possible
 ### float -> boolean
+
 var_h = 0.0
 var_b = bool(var_h)
 print(var_b) # False
