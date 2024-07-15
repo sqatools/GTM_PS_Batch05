@@ -34,3 +34,5 @@ print("value of a:",a)
 print("value of b:",b)
 print("value of c:",c)
 
+print("hi")
+
