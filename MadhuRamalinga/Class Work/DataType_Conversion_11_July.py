@@ -18,19 +18,22 @@ Python Data Type
 
 ############### Integer ###########
 ## int -> float
-num1 = 35
-print(num1, type(num1)) # 35 <class 'int'>
-num2 = float(num1)
-print(num2, type(num2)) # 35.0 <class 'float'>
+a1 = 5
+print(a1) # 5
+# print(float(a1)) # 5.0
+b1 = float(a1)
+print(b1) # 5.0
 
-print(float(num1))
+print("_"*50)
 
 ## int -> string
+a2 = 105
+print(a2) # 105
+# b2 = str(a2)
+# print(b2[0], type(b2))
+print((str(a2))[2])
+
 print("_"*50)
-var_a = 567
-str_a = str(var_a)
-print(str_a, type(str_a), str_a[0])
-#print(var_a[0])
 
 ## int ->  list # conversion is not possible
 """
@@ -43,41 +46,46 @@ print(list_b)
 ### int -> tuple  # conversion is not possible
 ### int - dictionary # conversion is not possible
 ### int -> set # conversion is not possible
-### int -> boolean
-print("_"*50)
-num1 = 0
-bool_val = bool(num1)
-print(bool_val)  # False
 
-num2 = -123
-bool_val2 = bool(num2)
+### int -> boolean
+a3 = 0
+bool_val1 = bool(a3)
+print(bool_val1)  # False
+
+b3 = -123
+bool_val2 = bool(b3)
 print(bool_val2)  # True
 
-################# Float ##################
 print("_"*50)
+
+################# Float ##################
+
 ###float - int
 
-var_c = 66.45
-var_d = int(var_c)
-print(var_d, type(var_d))
-# 66 <class 'int'>
+a4 = 10.85
+d4 = int(a4)
+print(d4, type(d4)) # 10 <class 'int'>
 
 ### float -> string
-var_f = 55.67
-str_f = str(var_f)
-print(str_f, type(str_f), str_f[3])
-# 55.67 <class 'str'> 6
+a5 = 108.56
+b5 = str(a5)
+print(b5, type(b5), b5[3])
+print(b5, b5[-1], type(b5))
 
 ### float -> list # conversion is not possible
 ### float -> tuple # conversion is not possible
 ### float -> dict # conversion is not possible
 ### float -> set # conversion is not possible
+
 ### float -> boolean
+a5 = 0.0
+b5 = bool(a5)
+print(b5) # False
 
-var_h = 0.0
-var_b = bool(var_h)
-print(var_b) # False
+a6 = 58.45
+b6 = bool(a6)
+print(b6) # True
 
-var_j = 33.45
-var_k = bool(var_j)
-print(var_k) # True
+
+
+
