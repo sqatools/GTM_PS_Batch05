@@ -57,9 +57,57 @@ c3=c1+c2
 print("some of complex no.:",c3) #(5.5+2j)
 
 
-#solve the given math formula.Formula : (a + b)2 = a^2 + b^2 + 2ab
+#11 solve the given math formula.Formula : (a + b)2 = a^2 + b^2 + 2ab
 a = 2
 b = 3
 result = a**2+2*a*b+b**2
-print("(a+b)^2: ",result)
+print("(a+b)^2: ",result)  #(a+b)^2:  25
 
+#12 Python program to solve the given  math formula. Formula : (a – b)2 = a^2 + b^2 – 2ab
+a = 4
+b = 6
+result=a**2+b**2-2*a*b
+print("(a-b)^2: ",result)  #(a-b)^2:  4
+
+
+#13 Python program to solve the given math formula. Formula : a2 – b2 = (a-b)(a+b)
+a = 4
+b = 2
+result=(a+b)*(a-b)
+print("(a^2-b^2): ",result)  #(a^2-b^2):  12
+
+
+#14 Solve the math formula (a + b)3 = a3 + 3ab(a+b) + b3
+a = 6
+b = 2
+result=a**3+ 3*a*b*(a+b) + b**3
+print("(a + b)3:",result)    #(a + b)3: 512
+
+
+
+#15  Solve the math formula (a – b)3 = a3 – 3a2b + 3ab2 – b3
+a = 6
+b = 2
+result=a**3-3*a**2*b+3*a*b**2+b**3
+print("(a - b)3:",result)    #(a - b)3: 80
+
+
+
+#18
+var1 = 200
+print(type(var1))  # <class 'int'>
+
+
+ #19
+var3 = -6545645654
+print(var3, type(var3))    #<class 'int'>
+
+#20
+var_a = 75.45
+var_b = -660.30
+var_c = 546456456.46
+var_d = 0.0
+print("var_a :", var_a, type(var_a))        # var_a : 75.45 <class 'float'>
+print("var_b :", var_b, type(var_b))      #var_b : -660.3 <class 'float'>
+print("var_c :", var_c, type(var_c))       #var_c : 546456456.46 <class 'float'>
+print("var_d :", var_d, type(var_d))     #var_d : 0.0 <class 'float'>
