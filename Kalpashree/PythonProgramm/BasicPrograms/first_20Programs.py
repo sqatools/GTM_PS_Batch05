@@ -103,18 +103,18 @@ area2= 2*3.14*r*h+2*3.14*r*r
 print("Area of cylinder: ",area2)
 
 ####check given number is an Armstrong number or noT####
-numb = g = 370
-rev = 0
-
-while g>0:
-    rem = g%10
-    rev = rev +rem**3
-    g= g//10
-
-if rev == numb:
-    print("It is a armstrong number")
+num = 370
+sum = 0
+n1 = len(str(num))
+temp = num
+while temp > 0:
+   digit = temp % 10
+   sum += digit ** n1
+   temp //= 10
+if num == sum:
+   print(num,"is an Armstrong number")
 else:
-    print("It is not a armstrong number")
+   print(num,"is not an Armstrong number")
 
 #####simple interests####
 p = 15000
