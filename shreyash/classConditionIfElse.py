@@ -180,3 +180,66 @@
 #   print(q)
 #else:
 #    print("q has none value")
+
+###############1 write a python program print all value which are divisible by and 3 and 5 from given list
+#####
+#list2 = [3, 9, 15, 30, 45, 16, 25]
+#num =  int(input("Enter a number: "))
+
+#if num%3 == 0  and num%5 == 0:
+
+#    print("Given number can divide by both 3 and 5")
+#else:
+#    print("Given number can not divide by 3 and 5")
+
+##Program to get all numbers divided by 3 between 1 to 30#
+
+#for i in range(1,31):
+# if i%3 == 0:
+#    print(i,end=" ")
+
+###Check a number is part of the Fibonacci series
+#fib = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+#num = int(input("Enter a number: "))
+#if num in fib:
+
+#    print("It is a part of the series")
+#else:
+
+#    print("It is not a part of the series")
+
+#####Python program to check authentication with the given username and password
+#name = input("Enter name:sunny ")
+#password = input("Enter password:sunyy123 ")
+
+#if name == password:
+
+#    print("It is valid")
+#else:
+
+#    print("It is not valid")
+
+###Check whether the given number is positive or not.
+#num=int(input("enter a number "))
+#if num>0:
+#    print("true")
+#else:
+#    print("false" )
+
+##Python program to print the largest number from two numbers##
+
+#num1= int(input("enter first number "))
+#num2= int(input("enter second number"))
+
+#if num1>num2:
+#    print("first number is greater")
+#else:
+#    print("second number is greater")
+
+###Check whether the character is lowercase or not.###
+
+char=input("enter the character: ")
+if char is lower():
+    print("true")
+else:
+    print("false")
