@@ -88,7 +88,7 @@ else:
 
 #10 Python program to print the square of the number
 print("-"*50)
-numb = 4
+numb = 15
 if numb % 3 == 0 and numb % 5 == 0:
     print("Given number is divisible by 3 and 5")
 else:
