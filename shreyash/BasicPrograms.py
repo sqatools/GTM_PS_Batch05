@@ -82,3 +82,15 @@
 #for i in range(1,num+1):
 #    total += i
 #print("Total: ",total)
+#Python program to get the current date using datetime
+#import datetime
+#dt = datetime.datetime.now()
+#print("Current Date: ",dt)
+
+#Python program to find the sum of natural numbers
+#num = int(input("Enter a number up to which you want to find sum: "))
+#total = 0
+#for i in range(1,num+1):
+#    total += i
+
+#print(total,"Total: ")
