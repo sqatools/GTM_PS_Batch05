@@ -1,0 +1,14 @@
+list2 = [3, 9, 15, 30, 45, 16, 25]
+
+
+for val in list2:
+     print(val)
+
+     if val % 3 == 0 and val % 5 == 0 :
+        print (" values divisible by both 3 and 5 ", val)
+     else:
+         print (" values divisible by both 3 and 5 ", val)
+
+
+
+print('__'*50)
