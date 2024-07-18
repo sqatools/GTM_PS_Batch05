@@ -122,3 +122,18 @@ r = 10
 t = 5
 amount = p+(p/r)*t
 print("Amount payable: ",amount)
+
+###Print current date ####
+print("_"*50)
+import datetime
+date = datetime.datetime.now()
+print (date.strftime (" %Y %b %d "))
+
+
+###calculate days between 2 dates using datetime library ####
+print("_"*50)
+from datetime import date
+date_1 = date(2024, 7, 5)
+date_2 = date(2024, 7, 22)
+result = (date_2 - date_1).days
+print ("Number of Days between the given Dates are: ", result, "days")
