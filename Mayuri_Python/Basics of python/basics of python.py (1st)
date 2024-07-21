@@ -1,0 +1,17 @@
+a = 50
+# a : variable
+# = : assignment operator
+# 50 : value
+print(a)
+
+address_a = id(a)
+print("address of a :", address_a)
+
+# if all variable have same value then their address location will be also same
+p = 50
+q = 60
+r = 60
+
+print ("address p:", id(p))
+print ("address q:", id(q))
+print ("address r:", id(r))
