@@ -22,7 +22,7 @@ True or True : True
 False or False : False
 """
 
-print("_"*40)
+print("_" * 40)
 
 # write a if condition program with and
 a = 50
@@ -35,21 +35,19 @@ if b > a and b > c:
 else:
     print("B doesn't have greater value")
 
-
 # write a python program to check given number is divisible by 2 or 3.
-print("_"*50)
+print("_" * 50)
 num1 = 55
-if num1%2 == 0 or num1%3 == 0:
+if num1 % 2 == 0 or num1 % 3 == 0:
     print("The number can divide by 2 or 3")
 else:
     print("The number can not divide by 2 or 3")
 
-
 # python program to check given number is divisible by 2 ,3 or 5
-print("_"*50)
+print("_" * 50)
 var1 = 25
 
-if var1%2 == 0 or var1%3 == 0 and var1%5 == 0:
+if var1 % 2 == 0 or var1 % 3 == 0 and var1 % 5 == 0:
     print("This number can divide by 2 or 3 and 5")
 else:
     print("The number can not divide by 2, 3 and 5")
@@ -69,7 +67,7 @@ else:
    code
 """
 # write a python program to check the greater among the three different variables
-print("_"*50)
+print("_" * 50)
 """
 p = 70
 q = 60
@@ -89,19 +87,18 @@ p = 70
 q = 60
 r = 70
 
-
 if p >= q and p >= r:
     print("P has greater value :", p)
-elif q >=p and q >= r:
+elif q >= p and q >= r:
     print("Q has greater value :", q)
-elif r >=p and r >= q :
+elif r >= p and r >= q:
     print("R has greate value :", r)
 else:
     print("None of the variable has greater value")
 
 # write a Python program to demonstrate grading of students as per the marks received.
-print("_"*50)
-#marks = int(input("Please enter value:"))
+print("_" * 50)
+# marks = int(input("Please enter value:"))
 marks = 45
 print(marks, type(marks))
 
@@ -122,7 +119,6 @@ elif marks <= 30:
 else:
     print("Marks value should between 0-100")
 
-
 """
 Nested if condition
 
@@ -139,7 +135,7 @@ if cond1:
 else:
     code
 """
-print("_"*50)
+print("_" * 50)
 round1 = "pass"
 round2 = "pass"
 round3 = "pass"
