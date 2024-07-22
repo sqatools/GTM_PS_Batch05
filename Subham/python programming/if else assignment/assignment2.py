@@ -219,6 +219,97 @@ else:
     print("enter a valid age")
 
 
+print("_" * 50)
+
+#Python program to check whether any given number is a palindrome
+num = input("enter a number")
+
+if num == num[:: -1]:
+    print ("yes it is a palindrome number")
+
+else:
+    print("yes it is not a palindrome number")
+
+
+print("_" * 50)
+
+#Python program to check whether a student has passed the exam. If marks are greater than 35 students have passed the exam.
+
+
+marks = int(input("enter a number:"))
+
+if marks >= 45 :
+    print ("passed")
+
+else:
+    print(" faill")
+
+
+print("_" * 50)
+
+#Python program to check whether the given number is positive or not.
+
+num = int(input("enter a number:"))
+
+if num > 20 :
+    print ("postive")
+
+else:
+    print(" negative")
+
+
+print("_" * 50)
+
+
+# program to check whether the given number is negative or not.
+
+num = int(input("enter a number:"))
+
+if num > 45 :
+    print ("postive")
+
+else:
+    print(" negative")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+print("_" * 50)
+
+#program to check whether the given number is negative or not.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
