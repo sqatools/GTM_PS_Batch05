@@ -111,3 +111,12 @@ print("var_a :", var_a, type(var_a))        # var_a : 75.45 <class 'float'>
 print("var_b :", var_b, type(var_b))      #var_b : -660.3 <class 'float'>
 print("var_c :", var_c, type(var_c))       #var_c : 546456456.46 <class 'float'>
 print("var_d :", var_d, type(var_d))     #var_d : 0.0 <class 'float'>
+
+
+
+
+
+
+
+
+
