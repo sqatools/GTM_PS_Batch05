@@ -78,12 +78,15 @@ for i in input1:
         print(i,end = "")
 
 #9Print all natural numbers from 1 to n
-n = int(input("Enter the last number: "))
+""""""
+#n = int(input("Enter the last number: "))
 count = 1
 
 while count <= n:
     print(count,end=" ")
     count += 1
+
+""""""
 #10Print all natural numbers in reverse (n to 1)
 n = int(input("Enter the last number: "))
 count = n
@@ -91,3 +94,7 @@ count = n
 while count != 0:
     print(count,end=" ")
     count -= 1
+#11Print all even numbers between 1 to 100.
+for i in range(1,101):
+    if i%2 == 0:
+        print(i,end=" ")
