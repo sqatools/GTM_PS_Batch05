@@ -22,7 +22,7 @@ print("address q:",id(q))
 print("address r:",id(r))
 
 #assign multiple variable diffrent at a time
-x,y,z=4,5,6
+x,y,z= 4,5,6
 print("value of x:",x)
 print("value of y:",y)
 print("value of z:",z)
