@@ -172,3 +172,6 @@ if q in vowel:
     print("Alphabet is a vowel")
 else:
     print("Alphabet is not a vowel")
+
+for i in range(20)
+    
