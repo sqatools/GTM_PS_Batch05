@@ -51,3 +51,23 @@ else:
 
 ####Program to check whether the number is a prime number ####
 print('_'*50)
+numc = 7
+count = 0
+for i in range(2,numc):
+    if numc%i == 0:
+        count += 1
+if count > 0:
+    print("It is not a prime number")
+else:
+    print("It is a prime number")
+
+####Program to check whether the number is odd or even ####
+print('_'*50)
+numd =  12
+if numd%2 == 0:
+   print("It is an even number")
+else:
+   print("It is an odd number")
+
+
+
