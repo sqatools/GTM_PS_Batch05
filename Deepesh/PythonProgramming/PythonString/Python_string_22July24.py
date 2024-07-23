@@ -93,6 +93,83 @@ str_d = "Good Evening"
 print(str_d[3:])  # d Evening
 print(str_d[-5:]) # ening
 
+print("_"*40)
+##############
+# Rule3 : str1[initial index: end index: difference]
+
+str1 = "We Are Learning Python"
+
+print(str1[3 :10: 1])  # Are Lea
+
+print(str1[1:12:2])  # eAeLan
+
+# get values with negative indexing
+print(str1[-1:-10:-1])  # nohtyP gn
+
+print(str1[4:-2:1]) # re Learning Pyth
+
+##################
+# Rule3: str1[:last index: difference]
+# the default initial index would be zero if difference is positive
+# The default initial index would be -1 if the difference is negative.
+
+
+str_b = "Python is very to learn"
+print(str_b[:-5:1])  # Python is very to
+print(str_b[:-15:-2]) # nrae
+
+
+# Rule4 :
+print(str_b[::-1]) # str1[:: difference]
+# default initial index would be zero
+# default last index would end of the string.
+
+
+str_c= "Good Morning"
+print(str_c[2: 15])
+
+print(str_c[::-1])
+print(str_c[-1:-len(str_c)-1: -1])
+
+print("_"*50)
+# Q1:
+str1 = "Best player is Virat"
+# output = "Virat is best player"
+
+w1 = str1[:12]
+w2 = str1[12:14]
+w3 = str1[15:]
+
+print(f"{w3} {w2} {w1}")  # Virat is Best player
+
+#Q2:
+str1 = "India is Best Cricket Team"
+# output = "mndia is Best Cricket TeaI"
+
+first_char = str1[0]
+last_char = str1[-1]
+remaining_chars = str1[1:-1]
+
+print(f"{last_char}{remaining_chars}{first_char}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
