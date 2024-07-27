@@ -1,3 +1,5 @@
+from dateutil.parser import _resultbase
+
 print(dir(str))
 """
 'capitalize', 'casefold', 'center', 'count',
@@ -124,12 +126,32 @@ for char in str_r:
 
 
 #Q1 write a python program to get all the word whose length is 5
-str2 = "Hello Good rning, WeAre Learning Pytho Programming"
-output = "Hello rning WeAre Pytho"
+str2 = "Hello Good rning , WeAre Learning Pytho Programming"
+# output = "Hello rning WeAre Pytho"
+output= "" # "Hello rning WeAre "
+word_list = str2.split(" ")
+for word in word_list:
+    if len(word) == 5:
+        output = output + word + " "
+    else:
+        continue
+
+print("result :", output)
+
 
 
 #Q2 write a python program to find the odd and even length words, and arrange them respectively
 # even word come first then odd len word.
 str_3 = "Good Morning , Hope you doing good"
-output = "good Hope Good Morning you doing"
+#output = "good Hope Good Morning you doing"
 
+odd_word = ""
+even_word = ""
+word_list = str_3.split(" ")
+for word in word_list:
+    if len(word)%2 == 0:
+        even_word = even_word + word + " "
+    else:
+        odd_word = odd_word + word + " "
+
+print(even_word + odd_word)
