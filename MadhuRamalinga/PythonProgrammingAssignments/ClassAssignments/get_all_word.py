@@ -11,10 +11,9 @@ words = str2.split() # ['Hello', 'Good', 'rning', 'WeAre', 'Learning', 'Pytho', 
 
 words_with_length_5 = []
 
-# Loop through each word and check its length
 for word in words:
     if len(word) == 5:
-        words_with_length_5.append(word) 
+        words_with_length_5.append(word)
 """['Hello']
 ['Hello', 'rning']
 ['Hello', 'rning', 'WeAre']
