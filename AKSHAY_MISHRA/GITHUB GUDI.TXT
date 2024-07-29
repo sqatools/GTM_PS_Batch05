@@ -1,0 +1,4 @@
+1.create a git hub account on github.com
+2.install gitclient on windows machines.
+3.get git repository url:https://github.cpm/sqatools/GTM_PS_Batch05.git
+4.CREATE A PROJECT FOLDER AND OPEN GIT TERMINAL IN THE SAME DIRECTORY
