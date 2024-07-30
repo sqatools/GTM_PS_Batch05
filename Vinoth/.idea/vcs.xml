@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
-<<<<<<< HEAD
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GTM_PS_Batch05" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Vinoth/GTM_PS_Batch05" vcs="Git" />
-=======
->>>>>>> 9e3045f7ce1e24573febff04826b96e0a444334d
   </component>
 </project>
