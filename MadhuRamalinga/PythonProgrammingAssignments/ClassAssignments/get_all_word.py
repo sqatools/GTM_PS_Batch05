@@ -20,4 +20,4 @@ for word in words:
 ['Hello', 'rning', 'WeAre', 'Pytho'] """
 
 output = " ".join(words_with_length_5)
-print(output)
+print(output) #Hello rning WeAre Pytho
