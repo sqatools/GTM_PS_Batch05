@@ -75,3 +75,13 @@ list_n = [4, 6, 7, 1, 3, 8, 24]
 
 result4 = [(val, 'even') if val%2 == 0 else (val, 'odd') for val in list_n]
 print("result4 :", result4)
+
+
+# Q1 : Write a python program to change reverse each values in given list
+list2 = ['Hello', 'Python', 'Programs']
+# output = ['olleH', 'nohtyP', 'smargorP']
+
+# Q2 Write a python program to find out the second highest number from list
+list1 = [3, 6, 12, 45, 223, 56]
+# output = 56
+
