@@ -81,7 +81,35 @@ print("result4 :", result4)
 list2 = ['Hello', 'Python', 'Programs']
 # output = ['olleH', 'nohtyP', 'smargorP']
 
-# Q2 Write a python program to find out the second highest number from list
+# Q2 Write a python program to find out the second-highest number from list
 list1 = [3, 6, 12, 45, 223, 56]
 # output = 56
+
+print("_"*50)
+# Q1 : Write a python program to change reverse each values in given list
+list_a = ['Hello', 'Python', 'Programs']
+# output = ['olleH', 'nohtyP', 'smargorP']
+
+output = []
+for word in list_a:
+    #print(word[::-1])
+    output.append(word[::-1])
+
+print("output :", output)
+
+
+# # Q2 Write a python program to find out the second-highest number from list
+list_b = [3, 6, 12, 45, 223, 56]
+# # output = 56
+max_val = 0 # 3, 6, 12, 45, 223, 56
+sec_max_val = 0
+
+for val in list_b: # 3, 6
+    if val > max_val:
+        max_val = val # 3, 6, 56
+    elif val < max_val and val > sec_max_val:
+        sec_max_val = val
+
+print("max value :", max_val)
+print("sec max value :", sec_max_val)
 
