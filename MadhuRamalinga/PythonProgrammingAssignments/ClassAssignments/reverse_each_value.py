@@ -5,7 +5,7 @@
 list2 = ['Hello', 'Python', 'Programs']
 reverse_value = []
 for char in list2:
-    reverse_value.append(char[::-1])
+    reverse_value.append(char[::-1])  # Reverse the string using slicing and append it to reverse_value
 print("Reverse of each value is: ",reverse_value)
 
 # using list comprehension
