@@ -238,8 +238,26 @@
 
 ###Check whether the character is lowercase or not.###
 
-char=input("enter the character: ")
-if char is lower():
-    print("true")
-else:
-    print("false")
+#char=input("enter the character: ")
+#if char is lower():
+#    print("true")
+#else:
+#    print("false")
+
+######write a python prigram to check the list of values divisible by 3 or 5
+#if divisible by 3 then add "fizz"
+#if divisible by 5 then add "buzz"
+#if divisible by both then add "fizzbuzz"
+values = [1, 3, 5, 15, 16, 20, 30]
+result_data= [ ]
+for value in values:
+        if value % 3 == 0 and value % 5 == 0:
+            result_data[val]="fizzbuzz"
+        elif value % 3 == 0:
+            result_data[val] = "fizz"
+        elif value % 5 == 0:
+            result_data[val] = "buzz"
+        else:
+            result_data[val]
+    return result
+    print("result")
