@@ -5,7 +5,7 @@ list1 = [1, 2, 4, 5, 1, 8, 5, 8]
 new_list = []
 var = 10
 
-for i in range(len(list1)): # len = 8, loop - 0, 1, 2, 3, 4, 5, 6, 7
+for i in range(len(list1)): # len = 8, loop -> 0, 1, 2, 3, 4, 5, 6, 7
     for val in itertools.combinations(list1,i):
         if sum(val) == var:
             new_list.append(val)
