@@ -65,7 +65,7 @@ dict_b={'p':23,'q':87,'r':65}
 #print("update data:",dict_data)
 
 ##clear()method: permanantly deleted data
-#Q:
+#Q:8
 #dict_f={'p':555,'q':234,'r':888,'a':123,'b':456,'c':13}
 #dict_f.clear()
 #print("dict_f:",dict_f)
