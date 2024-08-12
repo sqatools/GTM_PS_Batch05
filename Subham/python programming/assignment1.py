@@ -114,7 +114,7 @@ p=7400
 t=9
 r=3
 amount = P+(P/r)*t
-print("simple interst:",amount)
+print("interst:",amount)
 
 
 
@@ -180,6 +180,18 @@ print("simple interst:",amount)
 
 
 
+
+
+
+
+
+
+list=[3,9,15,30,45,16,25]
+for val in list:
+    if val/3==0:
+        print(val,val/3)
+    else:
+        print(val, val/5)
 
 
 

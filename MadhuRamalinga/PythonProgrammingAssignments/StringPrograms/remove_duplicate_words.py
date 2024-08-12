@@ -10,3 +10,7 @@ for word in list1:
 
 output = " ".join(list2)
 print(output) # I like python programming
+
+
+
+
