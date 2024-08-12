@@ -67,6 +67,8 @@ for k1, v1 in school.items():
     #             continue
     #
 
+# write a python program to get teachers email id with their name
+
 print("_"*50)
 teach_subject = 'physics'
 teach_name = 'madhu'
@@ -87,14 +89,7 @@ for k1, v1 in school.items():
                         for k3, v3 in teach_data.items():
                             print(k3, " : ", v3)
 
-# write a python program to get teachers email id with their name
 
-'''teacher_name = 'raghu'
-for k1, v1 in school.items():
-    #print(k1, v1)
-    for teacher in v1:
-        if k1 == teacher_name:
-            print("Teacher name is: ", teacher_name)
-    else:
-        continue'''
+
+
 
