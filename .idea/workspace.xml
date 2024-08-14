@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daa7d995-46c6-45aa-9211-dc74f0ce25c9" name="Changes" comment="Assignment - Dictionary Programs">
+      <change afterPath="$PROJECT_DIR$/MadhuRamalinga/Class Work/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/add_key_in_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_values.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Madhu131524&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sqatools/GTM_PS_Batch05.git&quot;,
+    &quot;accountId&quot;: &quot;ea519022-b438-406e-884c-89251a7a3ddf&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2immTN60UwUSXmQP5mhXyVNiJ7G" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.3_Multiplication_Table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Addition_Of_Two_Integers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Are_of_Cylinder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Area_of_Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Area_of_Cube.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Area_of_Square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Armstrong_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assign_Grades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Average_of_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Basic_Python_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataType_10_July.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataType_9_July.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataType_Conversion_11_July.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Even_or_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Interchange_Variables_Value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Interview_Process.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Math_Formula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Math_Formula2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Math_Formula3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Math_Formula4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Math_Formula5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Median_of_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multiply_Two_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.New_Se.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Number_Avaialble_in_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Number_Divisible_by_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Number_is_Divided_by_3and5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.O_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prime_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Print_Square_of_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pythagorous_Theorem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Repeat_a_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Simple_Interest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Square_Cube_of_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Square_Cube_of_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subtraction_of_Two_Integers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Username_Password.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Validate_UserId.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_elements_to_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_word_in_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculate_digits_letters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.check_number_in_range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clear_all_items.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combination_of_two_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.common_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.concatenate_two_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.copies_of_last_2chars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_even_odd_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_occurences_of_sub_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create_dict_from_lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create_dict_from_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create_string_from_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.divisible_by_number_and_multiple_of_another_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.elements_divided_by_a_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.elements_from_list1_to_list2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.eligible_to_vote.executor&quot;: &quot;Run&quot;,
+    &quot;Python.even_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.even_odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exchange_first_last_char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci_series.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_oddeven_words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first_and_last_digits_of_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fizz_buzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_all_word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_digits_from_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_palindrome_words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.int_palindrome (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.largest_of_three_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.length_of_longest_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.length_of_string_with_loop_logic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.longest_and_smallest_word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_of_a_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min_max.executor&quot;: &quot;Run&quot;,
+    &quot;Python.move_items_from_one_to_another.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiply_all_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.negative_or_not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_of_digits_in_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.odd_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.positive_or_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_or_not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_alphabets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_certain_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_first_last_chars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_list_after_removing_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_natural_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_natural_numbers_in_reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_string_10_times.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_true_for_common_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.product_of_all_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_firstprogram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_function_7Aug24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_loop_17July24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rearrange_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_duplicate_words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_negative_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.repeat_vowels_constants.executor&quot;: &quot;Run&quot;,
+    &quot;Python.repeated_character.executor&quot;: &quot;Run&quot;,
+    &quot;Python.replace_second_occurence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.replace_word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.return_newlist_with_unique_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_a_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_each_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_using_reversed_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_using_slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_using_while_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.second_highest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.secongpythonprogram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort_using_keys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort_using_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.split_into_two_part.executor&quot;: &quot;Run&quot;,
+    &quot;Python.square_of_all_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.square_of_even_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.square_of_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.square_of_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.squares_of_even_and_cubes_of_odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_passed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_of_all_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_of_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_of_even_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_of_natural_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_of_odd_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swap_last_char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tables_of_a_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teacher_student.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uppercase_to_lowercase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vowel_or_constant.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vowels_in_dict_format.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PythonAutomation/GTM_PS_Batch05&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PythonAutomation\GTM_PS_Batch05\MadhuRamalinga\PythonProgrammingAssignments\If_else" />
+      <recent name="C:\PythonAutomation\GTM_PS_Batch05\MadhuRamalinga" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sort_using_values">
+    <configuration name="create_dict_from_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GTM_PS_Batch05" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/create_dict_from_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_palindrome_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GTM_PS_Batch05" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/StringPrograms" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/StringPrograms/get_palindrome_words.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GTM_PS_Batch05" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/Class Work" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/Class Work/palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sort_using_keys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GTM_PS_Batch05" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_keys.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sort_using_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GTM_PS_Batch05" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sort_using_values" />
+        <item itemvalue="Python.sort_using_keys" />
+        <item itemvalue="Python.palindrome" />
+        <item itemvalue="Python.get_palindrome_words" />
+        <item itemvalue="Python.create_dict_from_string" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daa7d995-46c6-45aa-9211-dc74f0ce25c9" name="Changes" comment="" />
+      <created>1720104135032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720104135032</updated>
+    </task>
+    <task id="LOCAL-00001" summary="adding first python file">
+      <option name="closed" value="true" />
+      <created>1720105106108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720105106108</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding second python file">
+      <option name="closed" value="true" />
+      <created>1720105573674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720105573675</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding second python file">
+      <option name="closed" value="true" />
+      <created>1720105631926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720105631926</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding second python file">
+      <option name="closed" value="true" />
+      <created>1720106828410</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720106828410</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update second python file">
+      <option name="closed" value="true" />
+      <created>1720106892749</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720106892749</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Assignment programs">
+      <option name="closed" value="true" />
+      <created>1720478920347</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720478920347</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Assignment programs">
+      <option name="closed" value="true" />
+      <created>1720929786292</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720929786292</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Assignment programs">
+      <option name="closed" value="true" />
+      <created>1721226779009</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721226779010</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Assignment programs">
+      <option name="closed" value="true" />
+      <created>1721258414116</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721258414116</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Assignment programs">
+      <option name="closed" value="true" />
+      <created>1721262140165</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721262140165</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Assignment programs - if else">
+      <option name="closed" value="true" />
+      <created>1721358485086</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721358485086</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Assignment programs - if else">
+      <option name="closed" value="true" />
+      <created>1721399459676</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721399459676</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Assignment programs - if else">
+      <option name="closed" value="true" />
+      <created>1721437589871</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721437589871</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Assignment programs - for loop">
+      <option name="closed" value="true" />
+      <created>1721441656577</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721441656577</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Assignment programs - for loop">
+      <option name="closed" value="true" />
+      <created>1721614251491</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1721614251491</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Assignment programs - for loop">
+      <option name="closed" value="true" />
+      <created>1721665123155</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721665123155</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Assignment programs - for loop">
+      <option name="closed" value="true" />
+      <created>1721794143085</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721794143085</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Assignment - string method">
+      <option name="closed" value="true" />
+      <created>1721973889922</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1721973889922</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Assignment - string method">
+      <option name="closed" value="true" />
+      <created>1722103391637</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1722103391637</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Assignment - string method">
+      <option name="closed" value="true" />
+      <created>1722308029960</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722308029960</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Assignment - string method">
+      <option name="closed" value="true" />
+      <created>1722390545043</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1722390545043</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Assignment - string method">
+      <option name="closed" value="true" />
+      <created>1722435920798</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1722435920798</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Assignment - string method">
+      <option name="closed" value="true" />
+      <created>1722549844142</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1722549844142</updated>
+    </task>
+    <task id="LOCAL-00024" summary="teacher and student program">
+      <option name="closed" value="true" />
+      <created>1722960099592</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1722960099592</updated>
+    </task>
+    <task id="LOCAL-00025" summary="teacher and student program">
+      <option name="closed" value="true" />
+      <created>1723087273011</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1723087273011</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Assignment - Function Programs">
+      <option name="closed" value="true" />
+      <created>1723123994686</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1723123994686</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Assignment - List Programs">
+      <option name="closed" value="true" />
+      <created>1723127411411</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1723127411411</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Assignment - List Programs">
+      <option name="closed" value="true" />
+      <created>1723127617891</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1723127617891</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Assignment - List Programs">
+      <option name="closed" value="true" />
+      <created>1723152394794</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1723152394801</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Assignment - List Programs">
+      <option name="closed" value="true" />
+      <created>1723158851832</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1723158851832</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Assignment - Function Programs">
+      <option name="closed" value="true" />
+      <created>1723158874693</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1723158874693</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Assignment - List Programs">
+      <option name="closed" value="true" />
+      <created>1723210696409</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1723210696409</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Assignment - List Programs">
+      <option name="closed" value="true" />
+      <created>1723215347804</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1723215347804</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Assignment - List Programs">
+      <option name="closed" value="true" />
+      <created>1723346500905</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1723346500905</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Assignment - Dictionary Programs">
+      <option name="closed" value="true" />
+      <created>1723425056365</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1723425056365</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding second file" />
+    <MESSAGE value="adding first python file" />
+    <MESSAGE value="adding second python file" />
+    <MESSAGE value="update second python file" />
+    <MESSAGE value="Assignment programs" />
+    <MESSAGE value="Assignment programs - if else" />
+    <MESSAGE value="Assignment programs - for loop" />
+    <MESSAGE value="Assignment - string method" />
+    <MESSAGE value="teacher and student program" />
+    <MESSAGE value="Assignment - Function Programs" />
+    <MESSAGE value="Assignment - List Programs" />
+    <MESSAGE value="Assignment - Dictionary Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment - Dictionary Programs" />
+  </component>
+</project>
