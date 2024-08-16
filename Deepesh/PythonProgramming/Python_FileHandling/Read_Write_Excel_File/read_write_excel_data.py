@@ -46,3 +46,22 @@ def read_all_rows_content_from_excel(filename, sheet_name):
 
 
 read_all_rows_content_from_excel("test_excel_data.xlsx", "Sheet2")
+
+def write_content_to_excel_file(filename, sheet_name, cell_name, data):
+    wb = openpyxl.load_workbook(filename)
+    sh_name = wb[sheet_name]
+    cell_name = sh_name[cell_name]
+    cell_name.value = data
+    wb.save(filename)
+
+
+#write_content_to_excel_file("test_excel_data.xlsx", "Sheet1", "B1", "India")
+
+# st_names = ['Shreyash', 'Subham', 'Manjunath', 'Swetha', 'Vinoth']
+#
+# for i in range(len(st_names)):
+#     write_content_to_excel_file("test_excel_data.xlsx", "Sheet1", f"C{i+1}", st_names[i])
+
+
+
+
