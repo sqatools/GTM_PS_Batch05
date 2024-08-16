@@ -123,19 +123,19 @@ function2()
 
 #Eg2:Updating the global value
 
-def function1():
+def function3():
     global var_X
     var_y = 500
     var_x = 800
     print("local variable var-y:",var_y)
     print("global variable var_x:",var_x)
 
-def function2():
+def function4():
     var_z = 100
     print("local variable var_z:",var_z)
     print("global variable var_x:",var_x)
-function2()
+function3()
 print("_"*50)
 function1()
 print("_"*50)
-function2()
+function4()
