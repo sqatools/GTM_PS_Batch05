@@ -1,0 +1,18 @@
+Index: Deepesh/PythonProgramming/BasicPython/Basic_Python_Variable.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>a = 50\r\n# a : variable\r\n# = : assignment operator\r\n# 50 : value\r\nprint(a)\r\n\r\naddress_a = id(a)\r\nprint(\"address of a :\", address_a)\r\n\r\n# if all variable have same value, then their address location is also same\r\np = 60\r\nq = 60\r\nr = 60\r\nadd_p = id(p)\r\nprint(\"address p :\",add_p) # 140733310390552\r\nprint(\"address q :\",id(q)) # 140733310390552\r\nprint(\"address r :\",id(r)) # 140733310390552\r\n\r\n# assign multiple variable and different at a time\r\n\r\nx, y, z = 30, 40, 50\r\nprint(\"value of x :\", x)\r\nprint(\"value of y :\", y)\r\nprint(\"value of z :\", z)\r\n\r\nprint(\" value x:\", x, end=\"||\")\r\nprint(\" value y:\", y, end=\"||\")\r\nprint(\" value z:\", z)\r\n# value x: 30|| value y: 40|| value z: 50||\r\n\r\n# Assign same value to multiple variables\r\n\r\na = b = c = 70\r\nprint(\"value of a :\", a) # 70\r\nprint(\"value of b :\", b) # 70\r\nprint(\"value of c :\", c) # 70\r\n\r\n######  Rule to define the variables #######\r\n# 1. there should not be space in variable name\r\n# first name = 'rahul' # invalid variable\r\nfirst_name = 'rahul'  # correct name\r\n\r\n# 2. Variable name can not start with number\r\n# 123_abc = 500 : invalid variable\r\nabc_123 = 500 # valid name\r\n\r\n# 3.  Variable name can not contains special character\r\n\r\n# var_1_%_xyz = 600  : invalid name-> special character is not allowed\r\n# var_1_@#$%^&* = 800 : invalid\r\n_var_xyz_pqr = 700   # valid name\r\n\r\n# 4. there is no length limit to defined variable\r\npython_programming_variable_xyz_pqr = 8989080 # valid name\r\nvar1= \"Hello\" # valid name\r\n\r\n# 5. Python variable is case sensitive\r\n\r\nname = \"Mohit\"\r\nName = \"Rahul\"\r\nNamE = \"Aman\"\r\nnamE = \"John\"\r\nNAME = \"Python\"\r\nprint(name, Name, NamE, namE, NAME)\r\n# Mohit Rahul Aman John Python\r\n\r\n\"\"\"\r\n# Math operator\r\n\r\n\r\n\r\n\r\n\r\n\"\"\"\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Deepesh/PythonProgramming/BasicPython/Basic_Python_Variable.py b/Deepesh/PythonProgramming/BasicPython/Basic_Python_Variable.py
+--- a/Deepesh/PythonProgramming/BasicPython/Basic_Python_Variable.py	
++++ b/Deepesh/PythonProgramming/BasicPython/Basic_Python_Variable.py	
+@@ -3,7 +3,6 @@
+ # = : assignment operator
+ # 50 : value
+ print(a)
+-
+ address_a = id(a)
+ print("address of a :", address_a)
+ 
