@@ -73,11 +73,69 @@
 #login_fun(username='shrey',password='shr123')
 
 #Q10:combination of all param args and kawargs.
-def function_5(param1,*args,**kwargs):
-    print(f"multiply by 2:{param1}:",2*param1)
-    result=[X**2 for X in args]
-    print("square result:",result)
-    for K,V in kwargs.item():
-        print(K,":",V)
+#def function_5(param1,*args,**kwargs):
+#   print(f"multiply by 2:{param1}:",2*param1)
+#    result=[X**2 for X in args]
+#    print("square result:",result)
+#    for K,V in kwargs.items():
+#        print(K,":",V)
 
-function_5(4,2,5,6, name= 'rahul',phone=98988798,email='shr@g.com')
+#function_5(4,2,5,6, name= 'rahul',phone=98988798,email='shr@g.com')
+
+#Q11:Function with return statement
+#factorial number
+
+#def factorials(n):
+#    fact = 1
+#    for i in range(n,0,-1):
+#        fact = fact * i
+#        return fact
+    #result = factorial(6)   #NOTE: Any code after return statement will be unreachable
+    #print("factorial result:",result)
+
+#Eg: Function that return multiple values:
+
+#def function_three_return(n1,n2,n3):
+#    add= n1 + n2
+#    Multiply= n1 * n2
+#    Divide = n3/n1
+#    return add,Multiply,Divide
+#    result_function_three_return(5,7,8)
+
+#    print("Multiple return value:",result)
+
+#---------
+#Q12:Global Vairble:
+
+Var_X=700     #global variable
+def function1():
+    var_Y=400       #local variable define inside function
+    print("local variable var_Y:",var_Y)
+    print("Global variable var_X:",Var_X)
+
+def function2():
+    var_z = 200   #local variable
+    print("local variable var_z:",var_z)
+    print("global variable Var_X:",Var_X)
+function1()
+
+function2()
+
+#Eg2:Updating the global value
+
+def function3():
+    global var_X
+    var_y = 500
+    var_x = 800
+    print("local variable var-y:",var_y)
+    print("global variable var_x:",var_x)
+
+def function4():
+    var_z = 100
+    print("local variable var_z:",var_z)
+    print("global variable var_x:",var_x)
+function3()
+print("_"*50)
+function1()
+print("_"*50)
+function4()
