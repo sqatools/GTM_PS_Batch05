@@ -35,7 +35,44 @@
 # tuple program to sort a list of tuples by the length of the tuple.
 #  program to sort a tuple by its float element.
 #  tuple program to compute the element-wise sum of tuples.
-#  uple program to extract digits from a list of tuples.
-#  .
+#  Tuple program to extract digits from a list of tuples.
+
+#  Dictionary programs.
+#  Dictionary program to sort a dictionary using keys.
+#  program to get the size of a dictionary.
+#  program to group the same items into a dictionary value.
+#  program to display different combinations of letters from dictionary values.
+#  print the given dictionary in the form of tables.
+#  program to convert a list into a nested dictionary of keys.
+#  program to sort items in a dictionary in descending order.
+#  program to create a dictionary grouping a sequence of key-value pairs into a dictionary of lists.
+#  program to split a given dictionary of lists into list of dictionaries.
+#  Python dictionary contains a list as a value. Python program to clear the list values in the said dictionary.
+#  program to get the depth of the dictionary.
+#  program to remove keys with substring values.
+#   program to filter even numbers from a given dictionary value.
+#   program to retrieve the value of the nested key indicated by the given selector list from a dictionary or list.
+#   program to initialize a dictionary with default values.
+#   program to Sort dictionaries list by Key’s Value list index.
+#   .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
