@@ -87,7 +87,7 @@ class school:
     #class variable
     school_country = "made in india"
     #parametrize constuctor
-    def __int__(self,school_name,school_location,school_fees,school_course = "english"):
+    def __init__(self,school_name,school_location,school_fees,school_course = "english"):
         self.school_name = school_name
         self.school_location = school_location #instance variable
         self.school_fees = school_fees
@@ -127,8 +127,6 @@ print("_"*50)
 school_obj2 = school("15k","english")
 school_obj.show_school_details()
 school_obj2.show_school_country_name()
-
-
 
 
 
