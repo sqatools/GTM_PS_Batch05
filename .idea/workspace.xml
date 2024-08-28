@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b9ac7a7-7800-4cd0-91e4-d7022ca17c8c" name="Changes" comment="updated the python file" />
+    <list default="true" id="aae9812f-f41c-4e6d-906e-4d48cd958e2d" name="Changes" comment="Oops practice programs">
+      <change afterPath="$PROJECT_DIR$/Subham/python programming/oops_inheritance/pratice_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2024_5_21_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2024_5_21_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_8_2024_9_10_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_8_2024_9_10_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subham/python programming/oops_ assignment/oops_first_progrm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Subham/python programming/oops_ assignment/oops_first_progrm.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,47 +31,33 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Kalpashree-Mallesh&quot;
+    &quot;assignee&quot;: &quot;subham-git55&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/sqatools/GTM_PS_Batch05.git&quot;,
-    &quot;accountId&quot;: &quot;005531db-b514-452c-a337-02b5d7782e69&quot;
+    &quot;accountId&quot;: &quot;f5f8399e-92f0-4094-bda9-c92af7c698fe&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2immV73OheyIVjuQnN7wrhyObPw" />
-  <component name="ProjectLevelVcsManager">
-    <OptionsSetting value="false" id="Update" />
-  </component>
+  <component name="ProjectId" id="2lCZZYBIBndqvbSC8ECr0ZBMH0Q" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Python.Basic_Python_Variable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Homework.executor&quot;: &quot;Run&quot;,
-    &quot;Python.If_Else Programs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Loops_program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Python_Methods_25July24.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Python_program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Strings_Programs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first_20Programs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.working file.executor&quot;: &quot;Run&quot;,
-    &quot;Python.working.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops_first_progrm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pratice_code.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/PythonAutomation/GTM_PS_Batch05&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Basic_Python_Variable">
-    <configuration name="Basic_Python_Variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="oops_first_progrm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GTM_PS_Batch05" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,80 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deepesh/PythonProgramming/BasicPython" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deepesh/PythonProgramming/BasicPython/Basic_Python_Variable.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="If_Else Programs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GTM_PS_Batch05" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms/If_Else Programs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Loops_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GTM_PS_Batch05" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/oops_ assignment" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms/Loops_program.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="first_20Programs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GTM_PS_Batch05" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms/first_20Programs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/oops_ assignment/oops_first_progrm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,10 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Basic_Python_Variable" />
-        <item itemvalue="Python.If_Else Programs" />
-        <item itemvalue="Python.Loops_program" />
-        <item itemvalue="Python.first_20Programs" />
+        <item itemvalue="Python.oops_first_progrm" />
       </list>
     </recent_temporary>
   </component>
@@ -174,170 +95,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7b9ac7a7-7800-4cd0-91e4-d7022ca17c8c" name="Changes" comment="" />
-      <created>1720104148394</created>
+      <changelist id="aae9812f-f41c-4e6d-906e-4d48cd958e2d" name="Changes" comment="Oops practice programs" />
+      <created>1724686076285</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1720104148394</updated>
+      <updated>1724686076285</updated>
     </task>
-    <task id="LOCAL-00001" summary="Adding python program">
-      <option name="closed" value="true" />
-      <created>1720105223486</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1720105223486</updated>
-    </task>
-    <task id="LOCAL-00002" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1720106735758</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1720106735758</updated>
-    </task>
-    <task id="LOCAL-00003" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1720535629753</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1720535629754</updated>
-    </task>
-    <task id="LOCAL-00004" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1720621274698</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1720621274698</updated>
-    </task>
-    <task id="LOCAL-00005" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1720712948604</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1720712948604</updated>
-    </task>
-    <task id="LOCAL-00006" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1720715511241</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1720715511241</updated>
-    </task>
-    <task id="LOCAL-00007" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1720795246111</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1720795246111</updated>
-    </task>
-    <task id="LOCAL-00008" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1720796353729</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1720796353729</updated>
-    </task>
-    <task id="LOCAL-00009" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1721141418246</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1721141418246</updated>
-    </task>
-    <task id="LOCAL-00010" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1721145312054</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1721145312054</updated>
-    </task>
-    <task id="LOCAL-00011" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1721398224436</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1721398224436</updated>
-    </task>
-    <task id="LOCAL-00012" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1721398369965</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1721398369965</updated>
-    </task>
-    <task id="LOCAL-00013" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1721652906833</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1721652906833</updated>
-    </task>
-    <task id="LOCAL-00014" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1721654815660</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1721654815660</updated>
-    </task>
-    <task id="LOCAL-00015" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1721744958755</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1721744958755</updated>
-    </task>
-    <task id="LOCAL-00016" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1722257509565</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1722257509565</updated>
-    </task>
-    <task id="LOCAL-00017" summary="updated the python file">
-      <option name="closed" value="true" />
-      <created>1722264341216</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1722264341216</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding python program" />
-    <MESSAGE value="updated the python file" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the python file" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Deepesh/PythonProgramming/BasicPython/Basic_Python_Variable.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Deepesh/PythonProgramming/PythonLoops/python_loop_17July24.py</url>
-          <line>84</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Oops practice programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oops practice programs" />
   </component>
 </project>
