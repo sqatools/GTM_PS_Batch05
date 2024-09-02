@@ -218,5 +218,3 @@ obj.show_school_details()
 
 
 
-
-
