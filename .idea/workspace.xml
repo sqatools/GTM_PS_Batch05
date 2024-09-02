@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aae9812f-f41c-4e6d-906e-4d48cd958e2d" name="Changes" comment="inheritance practice programs">
-      <change afterPath="$PROJECT_DIR$/Subham/python programming/pratice_class_room/class_room.py" afterDir="false" />
+    <list default="true" id="683a97f4-6779-41bf-bc28-4efe677032cc" name="Changes" comment="selenium pratics">
+      <change afterPath="$PROJECT_DIR$/Subham/python programming/Automation_program/first_program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Subham/python programming/oops_ assignment/oops_first_progrm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Subham/python programming/oops_ assignment/oops_first_progrm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.class_room.executor": "Run",
+    "Python.first_program.executor": "Run",
     "Python.oops_first_progrm.executor": "Run",
     "Python.pratice_code.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -55,7 +55,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.class_room">
+  <component name="RunManager" selected="Python.first_program">
     <configuration name="class_room" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GTM_PS_Batch05" />
       <option name="ENV_FILES" value="" />
@@ -70,6 +70,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/pratice_class_room/class_room.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GTM_PS_Batch05" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/Automation_program" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/Automation_program/first_program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.first_program" />
         <item itemvalue="Python.class_room" />
         <item itemvalue="Python.oops_first_progrm" />
       </list>
@@ -117,7 +140,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aae9812f-f41c-4e6d-906e-4d48cd958e2d" name="Changes" comment="Oops practice programs" />
+      <changelist id="683a97f4-6779-41bf-bc28-4efe677032cc" name="Changes" comment="selenium pratics" />
       <created>1724686076285</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
