@@ -26,11 +26,68 @@
 
 13]#cab = //li[@data-cy="CABS"]
 
-14] forward button = //button[@type="button"]
+14] #forward button = //button[@type="button"]
 
 15]#all Offers - //a[contains(@id,'superOffersTab_ALL')]
 
 16]#select spcial image = //div[@class="titleTag "]
 
 17]#radio button student = (//input[@type="radio"])[2]
+
+18] banglor filght = (//div[@class="flexOne"])[8]
+
+#following
+
+#//li[@data-cy="roundTrip"]//following::li[@data-cy="CABS"]
+
+
+#following sibling
+#//li[@data-cy="HOLIDAYS"]//following-sibling::li[4]
+
+
+#preceding:
+
+#(//div[@class="flexOne"])[8]//preceding::input[@id="fromCity"]
+
+#preceding- sibling
+
+#//li[@data-cy="HOLIDAYS"]//preceding-sibling::li[1]
+
+
+#parent
+
+#//a[@id="superOffersTab_FLIGHTS"]//parent::li
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
