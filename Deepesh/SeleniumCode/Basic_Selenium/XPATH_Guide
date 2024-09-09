@@ -1,0 +1,46 @@
+xpath is one of the element locator through we can identify the element with the help of DOM structure.
+
+There are two type of xpath:
+
+1. Absolute xpath:
+    /html/body/div[1]/div[1]/div[1]/div/div/div/div[2]/div/div[1]/form/div[1]/div[1]/input
+
+
+2. Relative xpath:
+    //tagname[@attribute='value']
+    //input[@data-testid="royal_email"]
+    //input[@aria-label="Email address or phone number"]
+    //input[@placeholder="Email address or phone number"]
+
+    # indentify the siblings with indexing
+    //div[@align='left']//li[3]/input
+
+    # use indexing for non sibling elements
+    (//input[@type='radio'])[4]
+
+    # xpath without tagname //*[@attribute=value]
+    //*[@id='fromcity']
+    //*[@value='radio_678']
+    (//*[@type='date'])[4]
+
+   ########### Basic xpath methods ###########
+   1. text()
+   2. contains()
+   3. and & or condition
+   4. start-with
+
+   #   1. text() : //tagname[text()='value']
+                   //li/a[text()='Home']
+                   //li/a[text()='Python Selenium']
+                   //h2[text()=' Travel Details ']
+                   //*[text()=' Travel Details ']
+
+   # 2.  contains() : //tagname[contains(@attribute, 'partial value')]
+                      //input[contains(@id, 'from')]
+                      //input[contains(@id, 'what')]
+
+
+                      //tagname[contains(text(), 'partial value')]
+                      //h3[contains(text(), 'Dummy')]
+                      //a[contains(text(), 'Python 3')]
+

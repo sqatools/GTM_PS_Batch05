@@ -1,0 +1,50 @@
+
+1) SQA Tools - //a[contains(text(),'SQA')] --> X
+
+2) Home - (//a[text()='Home'])[1]
+
+3) Code Practice - (//*[contains(text(),'Practice')])[1]
+
+4) Dummy Website - //h3[@itemprop='name']
+
+5) Dummy Ticket Booking Website - //h1[contains(text(),'Dummy')]
+
+6) Choose the correct option - (//*[contains(text(),'correct')] --> X
+
+7) Dummy ticket for visa application - $200 (radio button) - (//ul/li/input[@type='radio'])[1]
+
+8) Dummy return ticket - $300 (radio button) - (//div/ul/li/input[@type='radio'])[2]
+
+9) Passenger Details - //div/h2[text()='Passenger Details']
+
+10) First Name - (//*[@type='text'])[1]
+
+11) Last Name - (//input[@type='text'])[2]
+
+12) Date of birth - (//div/input[@type='date'])[1]
+
+13) Male - (//div/input[@type='radio'])[1]
+
+14) Female - (//input[@type='radio'])[7]
+
+15) Number of Additional Passengers - //h3[text()=' Number of Additional Passangers']
+
+16) Number of Additional Passengers (drop-down) - //select/option[@value='1'] or //select/option[@value='2']
+
+17) Travel Details - //h2[contains(text(),'Travel')]
+
+18) One Way - (//div/input[@type='radio'])[3]
+
+19) Round Trip - (//*[@type='radio'])[9]
+
+20) From City - (//div/input[@type='text'])[3]
+
+21) Destination City - (//*[@type='text'])[4]
+
+22) Departure Date - (//div/input[@type='date'])[2]
+
+23) Return Date - (//div/*[@type='date'])[3]
+
+24) Delivery Option - (//*[contains(text(),'Option')])[2]
+
+25) Visa interview/ appointment date(optional) - (//div/input[@type='date'])[4]
