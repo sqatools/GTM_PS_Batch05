@@ -1,0 +1,50 @@
+
+1) make my trip - //img[@alt='Make My Trip']
+
+2) Hotels - (//span[text()="Hotels"])[1]
+
+3) Holiday Packages - (//*[text()='Holiday Packages'])[1]
+
+4) From City - //input[@placeholder="Enter City"]
+
+5) To CIty - //div/input[@type="text"]
+
+6) Departure Date - //span[contains(@data-cy,'departure')]
+
+7) Rooms & Guests - (//div[@role='row']//div[5]/div)[2]
+
+8) Search - //button[contains(@id, 'search_button')]
+
+9) Live Chat (message icon) - //span[@class="chatIcon-sections landingSprite appendRight10"]
+
+10) Live Chat - //p[contains(text(),'LIVE')]
+
+11) For Booking Help - //p[@class='font12 latoBold']
+
+12) Right Arrow - (//button[@type='button'])[1]
+
+13) Sale Live - //div/h2[contains(text(),'Sale Live')]
+
+14) Use Code - (//*[@class='font16 lineHeight19 fw400'])[1]
+
+15) Goa Image - (//div[@Class="itemCard__imgWrap"])[1]
+
+16) Beach - (//ul[@class='categorySubCardTag']//li[1])[1]
+
+17) View More - //span[@data-testid=
+
+18) International Destinations - (//*[@class='font32 latoBlack blackText fontFamilyHeading lineHeight38'])[3]
+
+19) Europe - //p[contains(text(),'Europe')]
+
+20) Europe Image - (//div/img[@alt="dp"])[1]
+
+21) T&C's Apply - //*[@data-cy="superOfferUrl0"]
+
+22) Book Now - //div/a[@data-cy="superOfferCtaText0"]
+
+23) All Offers - //a[contains(@id,'superOffersTab_ALL')]
+
+24) Twitter Icon - //span[contains(@class,'twiiterIcon land')]
+
+25) Create Account - (//span[@class="latoBold"])[2]
