@@ -9,11 +9,17 @@ CSS_SELECTOR = "css selector"
     -> #fromcity
 2. Class
    -> .classname
+   .post-title.entry-title
+   li.active.latoBlack
+   ul>li.active.latoBlack
+   
 3. attribute
    -> tagname[attribute='value']
+   ul>li[data-cy="BANK_OFFERS"]
    
 4. sub-string
    -> tagname[attribute^='partial value']
+   ul>li[data-cy^="BANK"]
 
 """
 
