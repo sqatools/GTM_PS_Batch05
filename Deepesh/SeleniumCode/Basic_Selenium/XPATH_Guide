@@ -8,15 +8,19 @@ There are two type of xpath:
 
 2. Relative xpath:
     //tagname[@attribute='value']
+
     //input[@data-testid="royal_email"]
     //input[@aria-label="Email address or phone number"]
     //input[@placeholder="Email address or phone number"]
+    //label[@for='fromCity']
+    //a[@data-cy="superOfferCtaText0"]
 
     # indentify the siblings with indexing
     //div[@align='left']//li[3]/input
 
     # use indexing for non sibling elements
     (//input[@type='radio'])[4]
+    (//span[@class='outer '])[2]
 
     # xpath without tagname //*[@attribute=value]
     //*[@id='fromcity']
@@ -27,6 +31,15 @@ There are two type of xpath:
    1. text()
    2. contains()
    3. and & or condition
+       AND Condition
+       //span[contains(@class, 'darkGreyText') and text()='Forex Card & Currency']
+       //p[contains(@data-cy, 'superOfferPtl0') and text()='GOOD NEWS FOR YOUR NEXT TRIP:']
+       //input[contains(@class, 'inputtext') and @data-testid='royal_email']
+       //input[contains(@class, 'inputtext') and @data-testid='royal_email' and @name='email']
+
+       OR Condition
+
+       //input[contains(@class, 'inputtext') or @data-testid='royal_email']
    4. start-with
 
    #   1. text() : //tagname[text()='value']
@@ -34,6 +47,8 @@ There are two type of xpath:
                    //li/a[text()='Python Selenium']
                    //h2[text()=' Travel Details ']
                    //*[text()=' Travel Details ']
+                   //a[text()='Create new account']
+                   //span[text()='Bank Offers']
 
    # 2.  contains() : //tagname[contains(@attribute, 'partial value')]
                       //input[contains(@id, 'from')]
@@ -43,4 +58,49 @@ There are two type of xpath:
                       //tagname[contains(text(), 'partial value')]
                       //h3[contains(text(), 'Dummy')]
                       //a[contains(text(), 'Python 3')]
+                      //a[contains(text(),'Create new')]
 
+
+######## Advance XPath Methods #########
+
+1. following : In this method, the target will always comes  downside of reference element.
+             //ref_tag[@attrib='value']//following::tar_tag[@attrib='value']
+             //input[@name='fromcity']//following::input[@id='street_address1']
+
+2. following-sibling : When one parent element have multiple child element,
+               and we want to target any younger element with reference of elder element
+               then we will use following-sibling method.
+
+               //ref_tag[@attrib='value']//following-sibling::tar_tag[@attrib='value']
+               //div[@align='left']/ul/li[3]//following-sibling::li
+               //span[text()='From']//following-sibling::p[text()='Enter city or airport']
+
+3. preceding :  If we want to find out the element in upper side of reference element in web page
+                then we will use preceding method.
+                //ref_tag[@attrib='value']//preceding::tar_tag[@attrib='value']
+
+                //input[@name='fromcity']//preceding::input[@id='male']
+
+4. preceding-sibling : When one parent element have multiple child element,
+               and we want to target any elder element with reference of youger element
+               then we will use preceding-sibling method.
+
+               //ref_tag[@attrib='value']//preceding-sibling::tar_tag[@attrib='value']
+               //div[@align='left']/ul/li[3]//preceding-sibling::li[2]
+               //td[text()='5666']//preceding-sibling::td/input[@type='checkbox']
+
+5. parent : When we want to identify the parent element with the reference of child element
+            then we will user parent method.
+
+            //child_tag[@attrib='value']//parent::parent_tag[@attrib='value']
+            //input[@value='radio_123']//parent::li
+            //span[text()='Departure']//parent::div
+            //span[text()='Holidays']//parent::a
+
+6. ancestor: whew we want to identify any element which is above to the parent element
+              then we can use ancestor method
+              //child_tag[@attrib='value']//ancestor::grand_parent_tag[@attrib='value']
+              //input[@value='radio_123']//ancestor::div[@align='left']
+              //span[text()='Holidays']//ancestor::li
+
+7. child : //div[@align='left']//child::input

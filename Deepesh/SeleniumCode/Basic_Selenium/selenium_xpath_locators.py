@@ -19,3 +19,12 @@ driver.maximize_window()
 driver.implicitly_wait(20)
 
 driver.get("https://automationbysqatools.blogspot.com/2021/05/dummy-website.html")
+
+# identify element by class name:
+header = driver.find_element(By.CLASS_NAME, "post-title")
+print(header.text)
+
+radio_button = driver.find_element(By.XPATH, "//span[text()='Both']//preceding-sibling::input[@id='female']")
+radio_button.click()
+time.sleep(10)
+driver.close()
