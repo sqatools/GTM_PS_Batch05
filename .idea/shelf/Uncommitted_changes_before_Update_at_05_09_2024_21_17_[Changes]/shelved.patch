@@ -1,0 +1,318 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"683a97f4-6779-41bf-bc28-4efe677032cc\" name=\"Changes\" comment=\"selenium pratics\">\r\n      <change afterPath=\"$PROJECT_DIR$/Subham/python programming/Automation_program/first_program.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;subham-git55&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/sqatools/GTM_PS_Batch05.git&quot;,\r\n    &quot;accountId&quot;: &quot;f5f8399e-92f0-4094-bda9-c92af7c698fe&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2lCZZYBIBndqvbSC8ECr0ZBMH0Q\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.class_room.executor\": \"Run\",\r\n    \"Python.first_program.executor\": \"Run\",\r\n    \"Python.oops_first_progrm.executor\": \"Run\",\r\n    \"Python.pratice_code.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"settings.editor.selected.configurable\": \"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python.first_program\">\r\n    <configuration name=\"class_room\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"GTM_PS_Batch05\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Subham/python programming/pratice_class_room\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Subham/python programming/pratice_class_room/class_room.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"first_program\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"GTM_PS_Batch05\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Subham/python programming/Automation_program\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Subham/python programming/Automation_program/first_program.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"oops_first_progrm\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"GTM_PS_Batch05\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Subham/python programming/oops_ assignment\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Subham/python programming/oops_ assignment/oops_first_progrm.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.first_program\" />\r\n        <item itemvalue=\"Python.class_room\" />\r\n        <item itemvalue=\"Python.oops_first_progrm\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"683a97f4-6779-41bf-bc28-4efe677032cc\" name=\"Changes\" comment=\"selenium pratics\" />\r\n      <created>1724686076285</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1724686076285</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"inheritance practice programs\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1724772369173</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1724772369173</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Oops practice programs\" />\r\n    <MESSAGE value=\"inheritance practice programs\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"inheritance practice programs\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 090173fba720d35a534a4cb0b72e5d0db96feb8c)
++++ b/.idea/workspace.xml	(date 1725563830159)
+@@ -4,8 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="683a97f4-6779-41bf-bc28-4efe677032cc" name="Changes" comment="selenium pratics">
+-      <change afterPath="$PROJECT_DIR$/Subham/python programming/Automation_program/first_program.py" afterDir="false" />
++    <list default="true" id="683a97f4-6779-41bf-bc28-4efe677032cc" name="Changes" comment="class work - selenium">
++      <change afterPath="$PROJECT_DIR$/MadhuRamalinga/Python_Programming_Exam/duplicate_string.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_8_2024_9_10_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_8_2024_9_10_PM__Changes_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -33,30 +34,57 @@
+   <component name="GithubPullRequestsUISettings">{
+   &quot;selectedUrlAndAccountId&quot;: {
+     &quot;url&quot;: &quot;https://github.com/sqatools/GTM_PS_Batch05.git&quot;,
+-    &quot;accountId&quot;: &quot;f5f8399e-92f0-4094-bda9-c92af7c698fe&quot;
++    &quot;accountId&quot;: &quot;ea519022-b438-406e-884c-89251a7a3ddf&quot;
+   }
+ }</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 2
+ }</component>
+   <component name="ProjectId" id="2lCZZYBIBndqvbSC8ECr0ZBMH0Q" />
++  <component name="ProjectLevelVcsManager">
++    <OptionsSetting value="false" id="Update" />
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.class_room.executor": "Run",
+-    "Python.first_program.executor": "Run",
+-    "Python.oops_first_progrm.executor": "Run",
+-    "Python.pratice_code.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "main",
+-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.abstract_method.executor&quot;: &quot;Run&quot;,
++    &quot;Python.class_methods.executor&quot;: &quot;Run&quot;,
++    &quot;Python.class_room.executor&quot;: &quot;Run&quot;,
++    &quot;Python.class_structure_with_module_level_import.executor&quot;: &quot;Run&quot;,
++    &quot;Python.class_variables.executor&quot;: &quot;Run&quot;,
++    &quot;Python.decorator.executor&quot;: &quot;Run&quot;,
++    &quot;Python.duplicate_string.executor&quot;: &quot;Run&quot;,
++    &quot;Python.employee_management.executor&quot;: &quot;Run&quot;,
++    &quot;Python.encapsulation.executor&quot;: &quot;Run&quot;,
++    &quot;Python.first_program.executor&quot;: &quot;Run&quot;,
++    &quot;Python.first_selenium.executor&quot;: &quot;Run&quot;,
++    &quot;Python.get_class_module_name.executor&quot;: &quot;Run&quot;,
++    &quot;Python.hierarchical_inheritance.executor&quot;: &quot;Run&quot;,
++    &quot;Python.instance_method.executor&quot;: &quot;Run&quot;,
++    &quot;Python.instance_variables.executor&quot;: &quot;Run&quot;,
++    &quot;Python.locators.executor&quot;: &quot;Run&quot;,
++    &quot;Python.method_overloading.executor&quot;: &quot;Run&quot;,
++    &quot;Python.method_overriding.executor&quot;: &quot;Run&quot;,
++    &quot;Python.multilevel_inheritance.executor&quot;: &quot;Run&quot;,
++    &quot;Python.multiple_inheritance.executor&quot;: &quot;Run&quot;,
++    &quot;Python.oops_first_progrm.executor&quot;: &quot;Run&quot;,
++    &quot;Python.pratice_code.executor&quot;: &quot;Run&quot;,
++    &quot;Python.python_class_constructor_program.executor&quot;: &quot;Run&quot;,
++    &quot;Python.python_class_under_given_syntax.executor&quot;: &quot;Run&quot;,
++    &quot;Python.school_management_system.executor&quot;: &quot;Run&quot;,
++    &quot;Python.single_inheritance.executor&quot;: &quot;Run&quot;,
++    &quot;Python.static_methods.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+   }
+-}]]></component>
+-  <component name="RunManager" selected="Python.first_program">
+-    <configuration name="class_room" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++}</component>
++  <component name="RunManager" selected="Python.duplicate_string">
++    <configuration name="class_structure_with_module_level_import" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -65,11 +93,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/pratice_class_room" />
+-      <option name="IS_MODULE_SDK" value="true" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/OOPSPrograms" />
++      <option name="IS_MODULE_SDK" value="false" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/pratice_class_room/class_room.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/OOPSPrograms/class_structure_with_module_level_import.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -78,7 +106,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="first_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="duplicate_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -87,11 +115,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/Automation_program" />
+-      <option name="IS_MODULE_SDK" value="true" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/Python_Programming_Exam" />
++      <option name="IS_MODULE_SDK" value="false" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/Automation_program/first_program.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/Python_Programming_Exam/duplicate_string.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -100,7 +128,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="oops_first_progrm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="employee_management" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -109,11 +137,55 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/oops_ assignment" />
+-      <option name="IS_MODULE_SDK" value="true" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/OOPSPrograms" />
++      <option name="IS_MODULE_SDK" value="false" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/oops_ assignment/oops_first_progrm.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/OOPSPrograms/employee_management.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="first_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="GTM_PS_Batch05" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/Selenium/basic_selenium" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/Selenium/basic_selenium/first_selenium.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="locators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="GTM_PS_Batch05" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/Selenium/basic_selenium" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/Selenium/basic_selenium/locators.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -124,9 +196,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Python.first_program" />
+-        <item itemvalue="Python.class_room" />
+-        <item itemvalue="Python.oops_first_progrm" />
++        <item itemvalue="Python.duplicate_string" />
++        <item itemvalue="Python.locators" />
++        <item itemvalue="Python.first_selenium" />
++        <item itemvalue="Python.class_structure_with_module_level_import" />
++        <item itemvalue="Python.employee_management" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -154,12 +228,49 @@
+       <option name="project" value="LOCAL" />
+       <updated>1724772369173</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Assignment - oops programs">
++      <option name="closed" value="true" />
++      <created>1725416694961</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1725416694961</updated>
++    </task>
++    <task id="LOCAL-00003" summary="Assignment - oops programs">
++      <option name="closed" value="true" />
++      <created>1725416709996</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1725416709996</updated>
++    </task>
++    <task id="LOCAL-00004" summary="class work - selenium">
++      <option name="closed" value="true" />
++      <created>1725420975120</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1725420975120</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Oops practice programs" />
+     <MESSAGE value="inheritance practice programs" />
+-    <option name="LAST_COMMIT_MESSAGE" value="inheritance practice programs" />
++    <MESSAGE value="Assignment - oops programs" />
++    <MESSAGE value="class work - selenium" />
++    <option name="LAST_COMMIT_MESSAGE" value="class work - selenium" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: MadhuRamalinga/Python_Programming_Exam/duplicate_string.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/MadhuRamalinga/Python_Programming_Exam/duplicate_string.py b/MadhuRamalinga/Python_Programming_Exam/duplicate_string.py
+new file mode 100644
+--- /dev/null	(date 1725466981617)
++++ b/MadhuRamalinga/Python_Programming_Exam/duplicate_string.py	(date 1725466981617)
+@@ -0,0 +1,40 @@
++
++str1 = "Rahul, Mohit, John, Rahul, Vaibhav, John"
++str_list = str1.split()
++output = []
++
++
++for word in str_list:
++    if word not in output:
++        output.append(word)
++
++print(output)
++
++"""str2 = "India cricket"
++list1 = str2.split()
++longword = ''
++for word in list1:
++    if len(word) > len(longword):
++        longword = word
++print(longword)
++
++
++input_list = [2, -16, 6, 44, -71, 18, -11, -1]
++po_nu = []
++ne_nu = []
++for val in input_list:
++    if val > 0:
++        po_nu.append(val)
++    else:
++        ne_nu.append(val)
++ol = po_nu + ne_nu
++print(ol)
++
++Dict1 = {'x':10, 'y':20, 'c':50, 'f':44}
++Dict2 = {'x':60, 'c':25, 'y':56}
++result = {}
++for key in Dict1:
++    if key in Dict2:
++        result[key] = Dict1[key] + Dict2[key]
++print(result)
++"""
