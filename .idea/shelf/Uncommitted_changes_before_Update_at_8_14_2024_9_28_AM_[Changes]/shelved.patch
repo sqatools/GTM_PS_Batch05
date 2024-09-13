@@ -1,0 +1,84 @@
+Index: MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/add_key_in_dict.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/add_key_in_dict.py b/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/add_key_in_dict.py
+new file mode 100644
+--- /dev/null	(date 1723642039661)
++++ b/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/add_key_in_dict.py	(date 1723642039661)
+@@ -0,0 +1,2 @@
++# Python program to add a key in a dictionary
++
+Index: MadhuRamalinga/Class Work/palindrome.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/MadhuRamalinga/Class Work/palindrome.py b/MadhuRamalinga/Class Work/palindrome.py
+new file mode 100644
+--- /dev/null	(date 1723426623774)
++++ b/MadhuRamalinga/Class Work/palindrome.py	(date 1723426623774)
+@@ -0,0 +1,12 @@
++# write a python program to get all the number are palindrome in the given values
++# 121, 454, 556, 767, 812, 959
++
++def get_polimdrome_number(*args):
++    palindrome = []
++    for val in args:
++        if str(val) == str(val)[::-1]:
++            palindrome.append(val)
++
++    print("Palindrome values are: ", palindrome)
++
++get_polimdrome_number(121, 454, 556, 767, 812, 959)
+\ No newline at end of file
+Index: MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_keys.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_keys.py b/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_keys.py
+new file mode 100644
+--- /dev/null	(date 1723559390203)
++++ b/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_keys.py	(date 1723559390203)
+@@ -0,0 +1,21 @@
++# Python program to sort a dictionary using keys
++
++dict1 = {'c' : 4, 'b' : 8, 'a' : 10, 'd' : 5}
++
++for key in sorted(dict1):
++    print("%s: %s" % (key, dict1[key]))
++
++# a: 10
++# b: 8
++# c: 4
++# d: 5
++
++# %s placeholders are used to format the string, where:
++# The first %s is replaced by the key.
++# The second %s is replaced by the value associated with that key in the dictionary.
++
++#% (key, dict1[key]):
++
++# This is where the values are provided that will replace the placeholders in the format string.
++# key is the first value that replaces the first %s.
++# dict1[key] is the second value that replaces the second %s.
+Index: MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_values.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_values.py b/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_values.py
+new file mode 100644
+--- /dev/null	(date 1723641469375)
++++ b/MadhuRamalinga/PythonProgrammingAssignments/DictionaryPrograms/sort_using_values.py	(date 1723641469375)
+@@ -0,0 +1,7 @@
++# Python program to sort a dictionary using values
++
++dict1 = {'d':14,'b':52,'a':13,'c': 1}
++
++sorted_ = {key: value for key, value in
++             sorted(dict1.items(), key=lambda item: item[1])}
++print(sorted_)
+\ No newline at end of file

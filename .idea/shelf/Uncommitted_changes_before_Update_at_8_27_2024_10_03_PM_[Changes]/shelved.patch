@@ -1,0 +1,366 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"7b9ac7a7-7800-4cd0-91e4-d7022ca17c8c\" name=\"Changes\" comment=\"updated the python file\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Kalpashree-Mallesh&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/sqatools/GTM_PS_Batch05.git&quot;,\r\n    &quot;accountId&quot;: &quot;005531db-b514-452c-a337-02b5d7782e69&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2immV73OheyIVjuQnN7wrhyObPw\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Python.Basic_Python_Variable.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Homework.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.If_Else Programs.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Loops_program.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Python_Methods_25July24.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Python_program.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.Strings_Programs.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.first_20Programs.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.working file.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.working.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/PythonAutomation/GTM_PS_Batch05&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Python.Basic_Python_Variable\">\r\n    <configuration name=\"Basic_Python_Variable\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"GTM_PS_Batch05\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"SDK_NAME\" value=\"Python 3.12\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Deepesh/PythonProgramming/BasicPython\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Deepesh/PythonProgramming/BasicPython/Basic_Python_Variable.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"If_Else Programs\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"GTM_PS_Batch05\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"SDK_NAME\" value=\"Python 3.12\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms/If_Else Programs.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Loops_program\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"GTM_PS_Batch05\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms/Loops_program.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"first_20Programs\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"GTM_PS_Batch05\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"SDK_NAME\" value=\"Python 3.12\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms/first_20Programs.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.Basic_Python_Variable\" />\r\n        <item itemvalue=\"Python.If_Else Programs\" />\r\n        <item itemvalue=\"Python.Loops_program\" />\r\n        <item itemvalue=\"Python.first_20Programs\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"7b9ac7a7-7800-4cd0-91e4-d7022ca17c8c\" name=\"Changes\" comment=\"\" />\r\n      <created>1720104148394</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1720104148394</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Adding python program\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720105223486</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720105223486</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720106735758</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720106735758</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720535629753</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720535629754</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720621274698</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720621274698</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720712948604</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720712948604</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720715511241</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720715511241</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720795246111</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720795246111</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720796353729</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720796353729</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1721141418246</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1721141418246</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1721145312054</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1721145312054</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1721398224436</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1721398224436</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1721398369965</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1721398369965</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1721652906833</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1721652906833</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1721654815660</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1721654815660</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1721744958755</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1721744958755</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1722257509565</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1722257509565</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"updated the python file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1722264341216</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1722264341216</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"18\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Adding python program\" />\r\n    <MESSAGE value=\"updated the python file\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"updated the python file\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/Deepesh/PythonProgramming/BasicPython/Basic_Python_Variable.py</url>\r\n          <line>2</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/Deepesh/PythonProgramming/PythonLoops/python_loop_17July24.py</url>\r\n          <line>84</line>\r\n          <option name=\"timeStamp\" value=\"2\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,7 +4,13 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="7b9ac7a7-7800-4cd0-91e4-d7022ca17c8c" name="Changes" comment="updated the python file" />
++    <list default="true" id="7b9ac7a7-7800-4cd0-91e4-d7022ca17c8c" name="Changes" comment="class work - Inheritance">
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2024_5_21_PM_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2024_5_21_PM__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_8_2024_9_10_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_8_2024_9_10_PM__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/MadhuRamalinga/Class Work/Inheritance/multi_level_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/MadhuRamalinga/Class Work/Inheritance/multi_level_inheritance.py" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -30,7 +36,7 @@
+   <component name="GithubPullRequestsUISettings">{
+   &quot;selectedUrlAndAccountId&quot;: {
+     &quot;url&quot;: &quot;https://github.com/sqatools/GTM_PS_Batch05.git&quot;,
+-    &quot;accountId&quot;: &quot;005531db-b514-452c-a337-02b5d7782e69&quot;
++    &quot;accountId&quot;: &quot;ea519022-b438-406e-884c-89251a7a3ddf&quot;
+   }
+ }</component>
+   <component name="ProjectColorInfo">{
+@@ -39,6 +45,7 @@
+   <component name="ProjectId" id="2immV73OheyIVjuQnN7wrhyObPw" />
+   <component name="ProjectLevelVcsManager">
+     <OptionsSetting value="false" id="Update" />
++    <ConfirmationsSetting value="2" id="Add" />
+   </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+@@ -47,15 +54,85 @@
+   <component name="PropertiesComponent">{
+   &quot;keyToString&quot;: {
+     &quot;Python.Basic_Python_Variable.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Fibonacci.executor&quot;: &quot;Run&quot;,
++    &quot;Python.HCF_of_two_numbers.executor&quot;: &quot;Run&quot;,
+     &quot;Python.Homework.executor&quot;: &quot;Run&quot;,
+     &quot;Python.If_Else Programs.executor&quot;: &quot;Run&quot;,
++    &quot;Python.LCM_of_two_numbers.executor&quot;: &quot;Run&quot;,
+     &quot;Python.Loops_program.executor&quot;: &quot;Run&quot;,
++    &quot;Python.OOPS_fundamentals.executor&quot;: &quot;Run&quot;,
+     &quot;Python.Python_Methods_25July24.executor&quot;: &quot;Run&quot;,
+     &quot;Python.Python_program.executor&quot;: &quot;Run&quot;,
+     &quot;Python.Strings_Programs.executor&quot;: &quot;Run&quot;,
++    &quot;Python.TuplePrograms.executor&quot;: &quot;Run&quot;,
++    &quot;Python.access_func_inside_func.executor&quot;: &quot;Run&quot;,
++    &quot;Python.add_item_to_tuple.executor&quot;: &quot;Run&quot;,
++    &quot;Python.add_key_in_dict.executor&quot;: &quot;Run&quot;,
++    &quot;Python.add_list_in_tup.executor&quot;: &quot;Run&quot;,
++    &quot;Python.append_data_to_existing_file.executor&quot;: &quot;Run&quot;,
++    &quot;Python.assign_values_to_variables.executor&quot;: &quot;Run&quot;,
++    &quot;Python.check_element_exists.executor&quot;: &quot;Run&quot;,
++    &quot;Python.compare_two_files.executor&quot;: &quot;Run&quot;,
++    &quot;Python.concatenate.executor&quot;: &quot;Run&quot;,
++    &quot;Python.convert_list_to_tuple_and_multiply.executor&quot;: &quot;Run&quot;,
++    &quot;Python.convert_tuple_to_string.executor&quot;: &quot;Run&quot;,
++    &quot;Python.copy_filecontents_to_another_after_converting_to_lowercase.executor&quot;: &quot;Run&quot;,
++    &quot;Python.copy_filecontents_to_another_after_converting_to_uppercase.executor&quot;: &quot;Run&quot;,
++    &quot;Python.count_all_words.executor&quot;: &quot;Run&quot;,
++    &quot;Python.count_no.of_lines_in_file.executor&quot;: &quot;Run&quot;,
++    &quot;Python.create_dict_from_string.executor&quot;: &quot;Run&quot;,
++    &quot;Python.create_func_with_args.executor&quot;: &quot;Run&quot;,
++    &quot;Python.create_tuple_with_lists (1).executor&quot;: &quot;Run&quot;,
++    &quot;Python.create_tuple_withdiff_DT.executor&quot;: &quot;Run&quot;,
++    &quot;Python.create_tuplelist_with_number_and_square.executor&quot;: &quot;Run&quot;,
++    &quot;Python.exception_handling.executor&quot;: &quot;Run&quot;,
++    &quot;Python.execute_string_containing_pythoncode.executor&quot;: &quot;Run&quot;,
++    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
++    &quot;Python.find_even_numbers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.find_longest_word_in_file.executor&quot;: &quot;Run&quot;,
++    &quot;Python.find_max_value.executor&quot;: &quot;Run&quot;,
++    &quot;Python.find_min_value.executor&quot;: &quot;Run&quot;,
++    &quot;Python.find_tuple_element_by_index.executor&quot;: &quot;Run&quot;,
+     &quot;Python.first_20Programs.executor&quot;: &quot;Run&quot;,
++    &quot;Python.fundamentals.executor&quot;: &quot;Run&quot;,
++    &quot;Python.generate_textfiles_with_alphabet_names.executor&quot;: &quot;Run&quot;,
++    &quot;Python.get_elements_using_indexing.executor&quot;: &quot;Run&quot;,
++    &quot;Python.get_emailid_from_textfile.executor&quot;: &quot;Run&quot;,
++    &quot;Python.get_first_and_last_three_lines.executor&quot;: &quot;Run&quot;,
++    &quot;Python.get_mobile_numbers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.get_odd_lines_and_append_to_seperate_files.executor&quot;: &quot;Run&quot;,
++    &quot;Python.get_specific_line_from_file.executor&quot;: &quot;Run&quot;,
++    &quot;Python.index_of_element.executor&quot;: &quot;Run&quot;,
++    &quot;Python.iterate.executor&quot;: &quot;Run&quot;,
++    &quot;Python.key_exists_or_not.executor&quot;: &quot;Run&quot;,
++    &quot;Python.length_of_tuple.executor&quot;: &quot;Run&quot;,
++    &quot;Python.multi_level_inheritance.executor&quot;: &quot;Run&quot;,
++    &quot;Python.multiple_inheritance.executor&quot;: &quot;Run&quot;,
++    &quot;Python.multiply_adjacent_elements.executor&quot;: &quot;Run&quot;,
++    &quot;Python.odd_even_words.executor&quot;: &quot;Run&quot;,
++    &quot;Python.parameterized_constructor.executor&quot;: &quot;Run&quot;,
++    &quot;Python.print_dict_in_given_form.executor&quot;: &quot;Run&quot;,
++    &quot;Python.print_values_and_squares.executor&quot;: &quot;Run&quot;,
++    &quot;Python.read_a_file.executor&quot;: &quot;Run&quot;,
++    &quot;Python.read_file_line_by_line.executor&quot;: &quot;Run&quot;,
++    &quot;Python.read_random_file.executor&quot;: &quot;Run&quot;,
++    &quot;Python.remove_item.executor&quot;: &quot;Run&quot;,
++    &quot;Python.school_institute.executor&quot;: &quot;Run&quot;,
++    &quot;Python.single_inheritance.executor&quot;: &quot;Run&quot;,
++    &quot;Python.size_of_dict.executor&quot;: &quot;Run&quot;,
++    &quot;Python.slice_a_tuple.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sort_lines_in_file.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sort_using_keys.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sort_using_values.executor&quot;: &quot;Run&quot;,
++    &quot;Python.square_of_values.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sum_of_all_items.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sum_of_elements.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sum_of_numbers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.swap_values_of_keys.executor&quot;: &quot;Run&quot;,
+     &quot;Python.working file.executor&quot;: &quot;Run&quot;,
+     &quot;Python.working.executor&quot;: &quot;Run&quot;,
++    &quot;Python.write_to_file.executor&quot;: &quot;Run&quot;,
++    &quot;Python.xount_specific_word.executor&quot;: &quot;Run&quot;,
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+@@ -63,8 +140,35 @@
+     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+   }
+ }</component>
+-  <component name="RunManager" selected="Python.Basic_Python_Variable">
+-    <configuration name="Basic_Python_Variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\PythonAutomation\GTM_PS_Batch05\MadhuRamalinga\PythonProgrammingAssignments\FileHandling\letters" />
++    </key>
++  </component>
++  <component name="RunManager" selected="Python.multi_level_inheritance">
++    <configuration name="compare_two_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="GTM_PS_Batch05" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/FileHandling" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/FileHandling/compare_two_files.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="count_no.of_lines_in_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -73,12 +177,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="SDK_NAME" value="Python 3.12" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deepesh/PythonProgramming/BasicPython" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/FileHandling" />
+       <option name="IS_MODULE_SDK" value="false" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deepesh/PythonProgramming/BasicPython/Basic_Python_Variable.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/PythonProgrammingAssignments/FileHandling/count_no.of_lines_in_file.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -87,7 +190,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="If_Else Programs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="multi_level_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -96,12 +199,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="SDK_NAME" value="Python 3.12" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/Class Work/Inheritance" />
+       <option name="IS_MODULE_SDK" value="false" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms/If_Else Programs.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/Class Work/Inheritance/multi_level_inheritance.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -110,7 +212,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="Loops_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="multiple_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -119,11 +221,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms" />
+-      <option name="IS_MODULE_SDK" value="true" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/Class Work/Inheritance" />
++      <option name="IS_MODULE_SDK" value="false" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms/Loops_program.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/Class Work/Inheritance/multiple_inheritance.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -132,7 +234,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="first_20Programs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="single_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -141,12 +243,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="SDK_NAME" value="Python 3.12" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MadhuRamalinga/Class Work/Inheritance" />
+       <option name="IS_MODULE_SDK" value="false" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kalpashree/PythonProgramm/BasicPrograms/first_20Programs.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MadhuRamalinga/Class Work/Inheritance/single_inheritance.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -157,10 +258,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Python.Basic_Python_Variable" />
+-        <item itemvalue="Python.If_Else Programs" />
+-        <item itemvalue="Python.Loops_program" />
+-        <item itemvalue="Python.first_20Programs" />
++        <item itemvalue="Python.multi_level_inheritance" />
++        <item itemvalue="Python.multiple_inheritance" />
++        <item itemvalue="Python.single_inheritance" />
++        <item itemvalue="Python.count_no.of_lines_in_file" />
++        <item itemvalue="Python.compare_two_files" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -316,13 +418,94 @@
+       <option name="project" value="LOCAL" />
+       <updated>1722264341216</updated>
+     </task>
+-    <option name="localTasksCounter" value="18" />
++    <task id="LOCAL-00018" summary="Assignment - Dictionary Programs">
++      <option name="closed" value="true" />
++      <created>1723695863524</created>
++      <option name="number" value="00018" />
++      <option name="presentableId" value="LOCAL-00018" />
++      <option name="project" value="LOCAL" />
++      <updated>1723695863524</updated>
++    </task>
++    <task id="LOCAL-00019" summary="Assignment - Tuple Programs">
++      <option name="closed" value="true" />
++      <created>1724044905316</created>
++      <option name="number" value="00019" />
++      <option name="presentableId" value="LOCAL-00019" />
++      <option name="project" value="LOCAL" />
++      <updated>1724044905316</updated>
++    </task>
++    <task id="LOCAL-00020" summary="Assignment - Function Programs">
++      <option name="closed" value="true" />
++      <created>1724047737693</created>
++      <option name="number" value="00020" />
++      <option name="presentableId" value="LOCAL-00020" />
++      <option name="project" value="LOCAL" />
++      <updated>1724047737693</updated>
++    </task>
++    <task id="LOCAL-00021" summary="Assignment - File Handling Programs">
++      <option name="closed" value="true" />
++      <created>1724164363351</created>
++      <option name="number" value="00021" />
++      <option name="presentableId" value="LOCAL-00021" />
++      <option name="project" value="LOCAL" />
++      <updated>1724164363351</updated>
++    </task>
++    <task id="LOCAL-00022" summary="Assignment - File Handling Programs">
++      <option name="closed" value="true" />
++      <created>1724211677751</created>
++      <option name="number" value="00022" />
++      <option name="presentableId" value="LOCAL-00022" />
++      <option name="project" value="LOCAL" />
++      <updated>1724211677767</updated>
++    </task>
++    <task id="LOCAL-00023" summary="class work - oops">
++      <option name="closed" value="true" />
++      <created>1724397038020</created>
++      <option name="number" value="00023" />
++      <option name="presentableId" value="LOCAL-00023" />
++      <option name="project" value="LOCAL" />
++      <updated>1724397038020</updated>
++    </task>
++    <task id="LOCAL-00024" summary="Assignment - File Handling Programs">
++      <option name="closed" value="true" />
++      <created>1724648961173</created>
++      <option name="number" value="00024" />
++      <option name="presentableId" value="LOCAL-00024" />
++      <option name="project" value="LOCAL" />
++      <updated>1724648961173</updated>
++    </task>
++    <task id="LOCAL-00025" summary="class work - Inheritance">
++      <option name="closed" value="true" />
++      <created>1724769241524</created>
++      <option name="number" value="00025" />
++      <option name="presentableId" value="LOCAL-00025" />
++      <option name="project" value="LOCAL" />
++      <updated>1724769241524</updated>
++    </task>
++    <option name="localTasksCounter" value="26" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Adding python program" />
+     <MESSAGE value="updated the python file" />
+-    <option name="LAST_COMMIT_MESSAGE" value="updated the python file" />
++    <MESSAGE value="Assignment - Dictionary Programs" />
++    <MESSAGE value="Assignment - Tuple Programs" />
++    <MESSAGE value="Assignment - Function Programs" />
++    <MESSAGE value="class work - oops" />
++    <MESSAGE value="Assignment - File Handling Programs" />
++    <MESSAGE value="class work - Inheritance" />
++    <option name="LAST_COMMIT_MESSAGE" value="class work - Inheritance" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
