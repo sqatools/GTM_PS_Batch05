@@ -1,0 +1,32 @@
+Line2 : ABC@gmail.com of Line2
+Line4 : 123
+Line6 : abc
+Line8 : alpha
+Line10: Gammaline1 : test file for filehandling
+line2 : abc@gmail.com of line2
+line3 : xyz python
+line4 : 123
+line5 : 456@yahoo.com of line5
+line6 : abc
+line7 : xyz
+line8 : alpha
+line9 : beta@outlook.com of line9
+line10: gammaline1 : test file for filehandling
+line2 : abc@gmail.com of line2
+line3 : xyz python
+line4 : 123
+line5 : 456@yahoo.com of line5
+line6 : abc
+line7 : xyz
+line8 : alpha
+line9 : beta@outlook.com of line9
+line10: gammaline1 : test file for filehandling
+line2 : abc@gmail.com of line2
+line3 : xyz python
+line4 : 123
+line5 : 456@yahoo.com of line5
+line6 : abc
+line7 : xyz
+line8 : alpha
+line9 : beta@outlook.com of line9
+line10: gamma

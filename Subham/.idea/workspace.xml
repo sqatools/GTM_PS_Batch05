@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a97f4-6779-41bf-bc28-4efe677032cc" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Subham/python programming/Automation_program/sqa_tool/first_program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4a3c996d-1361-41e6-ad03-f8cfa19cb6ce" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,8 +18,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Madhu131524 &lt;madhu.ramalinga1524@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -37,30 +38,27 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2lCZZYBIBndqvbSC8ECr0ZBMH0Q" />
+  <component name="ProjectId" id="2jS9iC4Y9TUkFHKuYYTgBf5ZQip" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.__init__.executor": "Run",
-    "Python.class_room.executor": "Run",
-    "Python.code_program.executor": "Run",
-    "Python.first_program (1).executor": "Run",
-    "Python.first_program.executor": "Run",
-    "Python.oops_first_progrm.executor": "Run",
-    "Python.pratice_code.executor": "Run",
+    "Python.assigment3 loop.executor": "Run",
+    "Python.assignment2.executor": "Run",
+    "Python.dict.executor": "Run",
+    "Python.list.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/python_automation/GTM_PS_Batch05"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.first_program (1)">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GTM_PS_Batch05" />
+  <component name="RunManager" selected="Python.list">
+    <configuration name="assigment3 loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Subham" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/Automation_program/second program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python programming/loop assignment" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/Automation_program/second program/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python programming/loop assignment/assigment3 loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,8 +79,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_room" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GTM_PS_Batch05" />
+    <configuration name="assignment2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Subham" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/pratice_class_room" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python programming/if else assignment" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/pratice_class_room/class_room.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python programming/if else assignment/assignment2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,8 +101,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GTM_PS_Batch05" />
+    <configuration name="dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Subham" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/class_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python programming/loop assignment/assignment4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/class_test/code_program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python programming/loop assignment/assignment4/dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,8 +123,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="first_program (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GTM_PS_Batch05" />
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Subham" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,33 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/Automation_program/sqa_tool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python programming/loop assignment/assignment4/assugnment5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/Automation_program/sqa_tool/first_program.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="first_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GTM_PS_Batch05" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/Automation_program" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/Automation_program/first_program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python programming/loop assignment/assignment4/assugnment5/list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +147,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.first_program (1)" />
-        <item itemvalue="Python.code_program" />
-        <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.first_program" />
-        <item itemvalue="Python.class_room" />
+        <item itemvalue="Python.list" />
+        <item itemvalue="Python.dict" />
+        <item itemvalue="Python.assigment3 loop" />
+        <item itemvalue="Python.assignment2" />
       </list>
     </recent_temporary>
   </component>
@@ -189,61 +164,109 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="683a97f4-6779-41bf-bc28-4efe677032cc" name="Changes" comment="selenium pratics" />
-      <created>1724686076285</created>
+      <changelist id="4a3c996d-1361-41e6-ad03-f8cfa19cb6ce" name="Changes" comment="" />
+      <created>1721369735991</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1724686076285</updated>
+      <updated>1721369735991</updated>
     </task>
-    <task id="LOCAL-00001" summary="inheritance practice programs">
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'">
       <option name="closed" value="true" />
-      <created>1724772369173</created>
+      <created>1721370828275</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1724772369173</updated>
+      <updated>1721370828275</updated>
     </task>
-    <task id="LOCAL-00002" summary="selenium pratics">
+    <task id="LOCAL-00002" summary="if else programs">
       <option name="closed" value="true" />
-      <created>1725284502387</created>
+      <created>1721399018717</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1725284502387</updated>
+      <updated>1721399018717</updated>
     </task>
-    <task id="LOCAL-00003" summary="selenium pratics">
+    <task id="LOCAL-00003" summary="if else programs.">
       <option name="closed" value="true" />
-      <created>1725284627194</created>
+      <created>1721578827036</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1725284627194</updated>
+      <updated>1721578827036</updated>
     </task>
-    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+    <task id="LOCAL-00004" summary="if else programs...">
       <option name="closed" value="true" />
-      <created>1726122256943</created>
+      <created>1721657618983</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1726122256943</updated>
+      <updated>1721657618983</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="loop programs...">
+      <option name="closed" value="true" />
+      <created>1721738463519</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721738463520</updated>
+    </task>
+    <task id="LOCAL-00006" summary="dict method">
+      <option name="closed" value="true" />
+      <created>1723107701972</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723107701972</updated>
+    </task>
+    <task id="LOCAL-00007" summary="list methods">
+      <option name="closed" value="true" />
+      <created>1723194532951</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723194532952</updated>
+    </task>
+    <task id="LOCAL-00008" summary="list methods">
+      <option name="closed" value="true" />
+      <created>1723205631921</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723205631921</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1723209202108</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723209202108</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Oops practice programs" />
-    <MESSAGE value="inheritance practice programs" />
-    <MESSAGE value="selenium pratics" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="if else programs" />
+    <MESSAGE value="if else programs." />
+    <MESSAGE value="if else programs..." />
+    <MESSAGE value="loop programs..." />
+    <MESSAGE value="dict method" />
+    <MESSAGE value="list methods" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Subham/python programming/Automation_program/sqa_tool/first_program.py</url>
-          <line>28</line>
+          <url>file://$PROJECT_DIR$/python programming/loop assignment/assigment3 loop.py</url>
+          <line>40</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python programming/loop assignment/assignment4/assugnment5/list.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
