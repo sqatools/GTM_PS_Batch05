@@ -20,8 +20,10 @@ wait = WebDriverWait(driver, timeout=20)
 
 driver.get("https://www.globalsqa.com/demo-site/draganddrop/")
 
-def drag_and_drop():
-   # return wait.until(ec.visibility_of_element_located(locator))
+def web_element(locator):
+    return wait.until(ec.visibility_of_element_located(locator))
+
+def drag_and_Drop():
 
     iframe_element = web_element(locator=(By.XPATH, "//iframe[@class='demo-frame lazyloaded']"))
     driver.switch_to.frame(iframe_element)
@@ -32,4 +34,4 @@ def drag_and_drop():
     action.perform()
     time.sleep(5)
 
-drag_and_drop()
+drag_and_Drop()
