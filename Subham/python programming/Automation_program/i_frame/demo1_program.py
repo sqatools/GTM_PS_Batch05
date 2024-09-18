@@ -36,7 +36,6 @@ def drag_and_Drop():
         image2 = get_element(locator=(By.XPATH, f"//h5[text()='High Tatras 2 {i}']//parent::li"))
         action.drag_and_drop(image2, trash_element)
         action.perform()
-
         time.sleep(5)
 
 
