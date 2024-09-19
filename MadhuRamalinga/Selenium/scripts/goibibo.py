@@ -27,6 +27,12 @@ web_element(locator=(By.XPATH,"(//p[contains(text()='Enter City')])[2]")).send_k
 
 web_element(locator=(By.XPATH, "//span[text()='from']//following-sibling::p[text()='Enter city or airport']")).send_keys("Bangalore")
 
+# //span[text()='From']//following-sibling::p
+# //span[text()='From']//following-sibling::input
+# //p[text()='Adults']//following-sibling::div/span[3]
+# //p[text()='Infants']//following-sibling::div/span[3]
+
+# https://www.w3schools.com/jsref/dom_obj_all.asp
 
 time.sleep(5)
 driver.close()
