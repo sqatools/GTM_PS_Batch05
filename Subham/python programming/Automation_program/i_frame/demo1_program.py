@@ -31,7 +31,13 @@ def drag_and_Drop():
     trash_element=get_element(locator=(By.XPATH,"//div[@id='trash']"))
     action.drag_and_drop(image2,trash_element)
     action.perform()
-    time.sleep(5)
+
+    for i in range(2,5):
+        image2 = get_element(locator=(By.XPATH, f"//h5[text()='High Tatras 2 {i}']//parent::li"))
+        action.drag_and_drop(image2, trash_element)
+        action.perform()
+        time.sleep(5)
+
 
 
 drag_and_Drop()
