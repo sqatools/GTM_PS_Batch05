@@ -33,6 +33,7 @@ print(URL)
 website_url = driver.execute_script("return document.title;")
 print(website_url)
 
+time.sleep(5)
 from_city_element = driver.execute_script("return document.getElementById('fromcity');")
 from_city_element.send_keys("Mumbai")
 
@@ -47,9 +48,9 @@ time.sleep(5)
 dob = driver.execute_script("return document.getElementById('birthday').tagName;") #DOB
 print(dob)
 
-time.sleep(10)
-scroll_top = driver.execute_script("return document.getElementById('post-body-5123879497792889300').scrollTop;") #
-scroll_top.
+time.sleep(5)
+scroll_top = driver.execute_script("return document.getElementById('post-body-5123879497792889300').scrollTop;")
+scroll_top
 
 title_text = driver.execute_script("return document.getElementByXPath('//h1[@align='center']').textContent;") #  Dummy Ticket Booking Website
 print(title_text)
