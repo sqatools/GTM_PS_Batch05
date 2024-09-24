@@ -86,28 +86,18 @@ time.sleep(2)
 web_element(locator=(By.XPATH, "//input[@placeholder='Enter Email Address']")).send_keys("coco@gmail.com") #Email ID
 web_element(locator=(By.XPATH, "//input[@placeholder='Enter Mobile Number']")).send_keys(7337879327) #Ph No.
 time.sleep(2)
-web_element(locator=(By.XPATH, "//label[contains(text(),'Billing Address')]")).send_keys("HAL Old Airport Road, Bangalore") #Address
+web_element(locator=(By.ID, "Billing Address")).send_keys("HAL Old Airport Road, Bangalore") #Address
 web_element(locator=(By.ID, "Pincode")).send_keys(560017) #Pincode
 time.sleep(2)
 
 #Drop down - State
-dd_element = web_element(locator=(By.XPATH, "//label[text()='State']")).click()
+dd_element = web_element(locator=(By.XPATH, "//label[text()='State']"))
 select_obj = Select(dd_element)
 select_obj.select_by_visible_text("Karnataka")
 time.sleep(3)
 
 web_element(locator=(By.ID, "confirm_check")).click() #Save billing details
 web_element(locator=(By.XPATH, "//button[contains(text(),'Pay')]")).click() #Pay
-
-
-
-
-# //span[text()='From']//following-sibling::p
-# //span[text()='From']//following-sibling::input
-# //p[text()='Adults']//following-sibling::div/span[3]
-# //p[text()='Infants']//following-sibling::div/span[3]
-
-# https://www.w3schools.com/jsref/dom_obj_all.asp
 
 time.sleep(5)
 driver.close()
