@@ -2,4 +2,24 @@
 pip install pytest
 """
 
+-> Each test file in pytest should start with test_ as prefix in the filename
+-> Each test function name should with test_ and prefix in the pytest
+-> Open a terminal and run below command to execute the test case.
+   python -m pytest -v <test file name>.py
 
+-> Above command will execute all the test cases and result will be visible in command prompt
+
+rootdir: E:\Trainings\GTM_PS_Batch05_1July2024\GTM_PS_Batch05\Deepesh\PytestFrameowrk
+test_smoke_cases.py::testfd_multiplication PASSED                     [ 50%]
+test_smoke_cases.py::testfd_addition_subtraction PASSED               [ 75%]
+test_smoke_cases.py::testfd_divisionj PASSED                          [100%]
+
+=============== 4 passed in 1.39s ======
+
+# command to execute specific type of test cases with markers
+
+python -m pytest -v -m  regression .\test_cases
+
+python -m pytest -v -m  "smoke and sanity" .\test_cases
+
+python -m pytest -v -m  "smoke or sanity" .\test_cases
