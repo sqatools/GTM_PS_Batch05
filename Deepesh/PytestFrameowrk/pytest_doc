@@ -23,3 +23,11 @@ python -m pytest -v -m  regression .\test_cases
 python -m pytest -v -m  "smoke and sanity" .\test_cases
 
 python -m pytest -v -m  "smoke or sanity" .\test_cases
+
+# package need to install to generate HTML report.
+
+pytest-html
+pip install pytest-html
+
+# pytest command with html report
+python -m pytest -v -s .\test_parametrization\test_parametrizatrion_function.py --html=report.html
