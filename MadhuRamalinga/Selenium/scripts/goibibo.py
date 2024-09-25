@@ -36,7 +36,7 @@ web_element(locator=(By.XPATH, "(//div[contains(text(),'midnight')])[2]")).click
 time.sleep(2)
 web_element(locator=(By.XPATH, "//a[contains(text(),'boarding')]")).click() #Show all boarding points
 time.sleep(2)
-web_element(locator=(By.XPATH, "//span[@title='Anand Rao Circle']")).click() #Radio button - Anand Rao Circle
+web_element(locator=(By.XPATH, "//span[@title='Bhawani HotelNear dobbaspet']")).click() #Radio button - Bhawani
 time.sleep(2)
 web_element(locator=(By.XPATH, "//span[text()='Mahadev Travels']")).click() #Select Operator - Mahadev Circle
 time.sleep(2)
@@ -49,12 +49,12 @@ web_element(locator=(By.XPATH, "(//span[text()='Blankets'])[1]")).click() #Blank
 time.sleep(2)
 web_element(locator=(By.XPATH, "//span[@title='USB port for charger']")).click() #USB port
 time.sleep(2)
-web_element(locator=(By.XPATH,"//span[@title='Bed Sheet']")).click() #Bed Sheet
-time.sleep(2)
+#web_element(locator=(By.XPATH,"//span[@title='Bed Sheet']")).click() #Bed Sheet
+#time.sleep(2)
 web_element(locator=(By.XPATH, "//span[@title='WIFI']")).click() #WiFi
 time.sleep(2)
-web_element(locator=(By.XPATH, "//span[text()='CCTV']")).click() #CCTV
-time.sleep(2)
+#web_element(locator=(By.XPATH, "//span[text()='CCTV']")).click() #CCTV
+#time.sleep(2)
 
 #Seat selection
 web_element(locator=(By.XPATH, "(//span[text()='SELECT SEAT'])[1]")).click() #Select Seat
@@ -90,13 +90,21 @@ web_element(locator=(By.ID, "Billing Address")).send_keys("HAL Old Airport Road,
 web_element(locator=(By.ID, "Pincode")).send_keys(560017) #Pincode
 time.sleep(2)
 
-#Drop down - State
 dd_element = web_element(locator=(By.XPATH, "//label[text()='State']"))
-select_obj = Select(dd_element)
-select_obj.select_by_visible_text("Karnataka")
+dd_element.click()
+#select_obj = Select(dd_element)
+#select_obj.select_by_visible_text("Karnataka")
 time.sleep(3)
 
-web_element(locator=(By.ID, "confirm_check")).click() #Save billing details
+def scroll_to_element():
+    action1 = ActionChains(driver)
+    state = web_element(locator=(By.XPATH, "//li[text()='Karnataka']"))
+    action1.move_to_element(state).click()
+    action1.perform()
+scroll_to_element()
+
+time.sleep(2)
+#web_element(locator=(By.ID, "confirm_check")).click() #Save billing details
 web_element(locator=(By.XPATH, "//button[contains(text(),'Pay')]")).click() #Pay
 
 time.sleep(5)
