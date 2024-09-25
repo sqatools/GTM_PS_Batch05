@@ -43,11 +43,12 @@ def perform_hover_operation():
     action.perform()
     time.sleep(5)
 
-#perform_hover_operation()
+
+# perform_hover_operation()
 
 def drag_and_drop():
     driver.get("https://www.globalsqa.com/demo-site/draganddrop/")
-    
+
     iframe_element = get_element(locator=(By.XPATH, "//iframe[@class='demo-frame lazyloaded']"))
     driver.switch_to.frame(iframe_element)
     action = ActionChains(driver)
@@ -56,10 +57,22 @@ def drag_and_drop():
     trash_elem = get_element(locator=(By.ID, "trash"))
     action.drag_and_drop(image1, trash_elem)
     action.perform()
-    time.sleep(3)
+    time.sleep(5)
 
+    image2 = get_element(locator=(By.XPATH, "//img[@src='images/high_tatras2_min.jpg']"))
+    action.drag_and_drop(image2,trash_elem)
+    action.perform()
+    time.sleep(5)
+
+    image3 = get_element(locator=(By.XPATH, "//img[@src='images/high_tatras3_min.jpg']"))
+    action.drag_and_drop(image3, trash_elem)
+    action.perform()
+    time.sleep(5)
+
+    image4 = get_element(locator=(By.XPATH, "//h5[text()='High Tatras 4']//parent::li"))
+    action.drag_and_drop(image4,trash_elem)
+    action.perform()
+    time.sleep(5)
 
 
 drag_and_drop()
-
-
