@@ -31,3 +31,11 @@ pip install pytest-html
 
 # pytest command with html report
 python -m pytest -v -s .\test_parametrization\test_parametrizatrion_function.py --html=report.html
+
+
+
+
+# pytest command to run the test cases parallel
+
+python -m pytest -v -n 2 .\test_dummy_website_seperate_locators.py --html=report.html
+-n number of test cases to run parallelly.
