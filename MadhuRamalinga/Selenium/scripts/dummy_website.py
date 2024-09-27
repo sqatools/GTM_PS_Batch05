@@ -64,7 +64,5 @@ web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[5]")).click() # Hyde
 web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[6]")).click() # Orangabad
 web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[7]")).click() # Delhi
 
-
-
 time.sleep(10)
 driver.close()
