@@ -52,7 +52,7 @@ def test_addition_reg(fun_setup):
     a1 = 50
     b1 = 40
     c1 = 30
-    assert a1 + b1 + c1 == 110
+    assert a1 + b1 + c1 == 120
 
 
 @pytest.mark.smoke
@@ -72,7 +72,7 @@ def test_addition_subtraction_reg(fun_setup):
     assert a1 - b1 - c1 == -20
 
 
-@pytest.mark.regression
+@pytest.mark.smoke
 def test_division_reg(fun_setup):
     a1 = 20
     b1 = 4
