@@ -56,3 +56,5 @@ def test_division(func_setup):
     a1 = 50
     b1 = 2
     assert a1 / b1 == 25
+
+#command: python -m pytest -v -s .\test_fixture_test_cases.py
