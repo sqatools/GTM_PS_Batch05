@@ -39,3 +39,5 @@ python -m pytest -v -s .\test_parametrization\test_parametrizatrion_function.py 
 
 python -m pytest -v -n 2 .\test_dummy_website_seperate_locators.py --html=report.html
 -n number of test cases to run parallelly.
+
+pytest-x-dist ---> Install (for parallel execution)
