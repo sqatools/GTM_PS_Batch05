@@ -22,7 +22,7 @@ class DummyBooking(SeleniumBase):
         self.click_element(male_radio_button)
 
     def select_additional_passengers_from_dd(self, dropdown_value): #why do we have dropdown_value param when we only need to click on the dd
-        self.select_value_from_dd(no_of_passenger_dropdown, dropdown_value)
+        self.select_value_from_dropdown(no_of_passenger_dropdown, dropdown_value)
 
     def roundtrip_radio_btn(self):
         self.click_element(round_trip)

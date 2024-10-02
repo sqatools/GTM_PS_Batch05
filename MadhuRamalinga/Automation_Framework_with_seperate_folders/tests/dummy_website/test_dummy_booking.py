@@ -1,6 +1,7 @@
 import pytest
 from modules.dummy_website.dummy_booking_page_class import DummyBooking
 
+
 @pytest.mark.usefixtures("get_driver")
 class TestDummyBooking:
 
