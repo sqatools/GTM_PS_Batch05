@@ -54,12 +54,12 @@ web_element(locator=(By.ID, "street_address1")).send_keys("#16 HAL, Bangalore") 
 time.sleep(10)
 web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[1]")).click() # Mumbai
 
-element = web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[1]"))
-element.click()
+#element = web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[1]"))
+#element.click()
 
-web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[2]")).click()
-web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[3]")).click()
-web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[4]")).click()
+web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[2]")).click() # Pune
+web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[3]")).click() # Indore
+web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[4]")).click() # Kolkate
 web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[5]")).click() # Hyderabad
 web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[6]")).click() # Orangabad
 web_element(locator=(By.XPATH, "(//input[@type='checkbox'])[7]")).click() # Delhi
