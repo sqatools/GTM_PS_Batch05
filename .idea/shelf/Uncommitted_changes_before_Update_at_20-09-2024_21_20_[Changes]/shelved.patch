@@ -1,0 +1,446 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,12 +1,26 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="683a97f4-6779-41bf-bc28-4efe677032cc" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
++    <list default="true" id="52804fea-4f2b-4ed3-b660-6fd3c2603dc1" name="Changes" comment="selenium practice files">
++      <change afterPath="$PROJECT_DIR$/Pritam/Pytest_smoke.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Pritam/pytest_regression.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_16_50_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_16_50__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_17_17_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_09_2024_17_17__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_09_2024_01_19_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_09_2024_01_19__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_09_2024_16_31__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_09_2024_16_31__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_09_2024_16_32__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_09_2024_16_32__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_09_2024_20_33__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_09_2024_20_33__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_4_2024_9_59_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_4_2024_9_59_AM__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_8_2024_9_10_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_8_2024_9_10_PM__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_14_2024_9_28_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_14_2024_9_28_AM__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_27_2024_10_03_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_27_2024_10_03_PM__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_10_54_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_30_2024_10_54_AM__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_2_2024_9_19_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_2_2024_9_19_AM__Changes_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Subham/python programming/Automation_program/i_frame/demo2_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/Subham/python programming/Automation_program/i_frame/demo2_program.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -24,59 +38,57 @@
+     <option name="PUSH_AUTO_UPDATE" value="true" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory">{
+-  &quot;lastFilter&quot;: {
+-    &quot;state&quot;: &quot;OPEN&quot;,
+-    &quot;assignee&quot;: &quot;subham-git55&quot;
+-  }
+-}</component>
+-  <component name="GithubPullRequestsUISettings">{
+-  &quot;selectedUrlAndAccountId&quot;: {
+-    &quot;url&quot;: &quot;https://github.com/sqatools/GTM_PS_Batch05.git&quot;,
+-    &quot;accountId&quot;: &quot;f5f8399e-92f0-4094-bda9-c92af7c698fe&quot;
+-  }
+-}</component>
+-  <component name="ProjectColorInfo">{
+-  &quot;associatedIndex&quot;: 2
+-}</component>
+-  <component name="ProjectId" id="2lCZZYBIBndqvbSC8ECr0ZBMH0Q" />
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
++  </component>
++  <component name="ProjectId" id="2j9JN8RULJV1DRCNEUMmiw7jyqO" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.__init__.executor": "Run",
+-    "Python.class_room.executor": "Run",
+-    "Python.code_program.executor": "Run",
+-    "Python.demo1_program.executor": "Run",
+-    "Python.demo2_program.executor": "Run",
+-    "Python.demo_program.executor": "Run",
+-    "Python.first_program (1).executor": "Run",
+-    "Python.first_program.executor": "Run",
+-    "Python.goibo_program.executor": "Run",
+-    "Python.oops_first_progrm.executor": "Run",
+-    "Python.pratice_code.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "main",
+-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/pythonpractice/GTM_PS_Batch05&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+   }
+-}]]></component>
+-  <component name="RunManager" selected="Python.demo2_program">
+-    <configuration name="demo1_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++}</component>
++  <component name="RunManager" selected="Python.selenium dummy website">
++    <configuration name="If else program" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
++      <module name="GTM_PS_Batch05" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pritam" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pritam/If else program.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="Multiple_browser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+-      <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+       <envs>
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/Automation_program/i_frame" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pritam" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/Automation_program/i_frame/demo1_program.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pritam/Multiple_browser.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -85,20 +97,19 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="demo2_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="Selenium_basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+-      <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+       <envs>
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/Automation_program/i_frame" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pritam" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/Automation_program/i_frame/demo2_program.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pritam/Selenium_basic.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -107,20 +118,19 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="demo_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="Selenium_facebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+-      <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+       <envs>
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/Automation_program/i_frame" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pritam" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/Automation_program/i_frame/demo_program.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pritam/Selenium_facebook.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -129,20 +139,19 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="first_program (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="Selenium_script (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+-      <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+       <envs>
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/Automation_program/sqa_tool" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pritam" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/Automation_program/sqa_tool/first_program.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pritam/Selenium_script.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -151,20 +160,19 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="goibo_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="selenium dummy website" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="GTM_PS_Batch05" />
+-      <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+       <envs>
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Subham/python programming/Automation_program/sqa_tool" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pritam" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subham/python programming/Automation_program/sqa_tool/goibo_program.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pritam/selenium dummy website.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -175,99 +183,154 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Python.demo2_program" />
+-        <item itemvalue="Python.goibo_program" />
+-        <item itemvalue="Python.demo1_program" />
+-        <item itemvalue="Python.demo_program" />
+-        <item itemvalue="Python.first_program (1)" />
++        <item itemvalue="Python.selenium dummy website" />
++        <item itemvalue="Python.Selenium_facebook" />
++        <item itemvalue="Python.Multiple_browser" />
++        <item itemvalue="Python.Selenium_basic" />
++        <item itemvalue="Python.Selenium_script (1)" />
+       </list>
+     </recent_temporary>
+   </component>
+-  <component name="SharedIndexes">
+-    <attachedChunks>
+-      <set>
+-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+-      </set>
+-    </attachedChunks>
+-  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+-      <changelist id="683a97f4-6779-41bf-bc28-4efe677032cc" name="Changes" comment="selenium pratics" />
+-      <created>1724686076285</created>
++      <changelist id="52804fea-4f2b-4ed3-b660-6fd3c2603dc1" name="Changes" comment="" />
++      <created>1720793316819</created>
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+-      <updated>1724686076285</updated>
++      <updated>1720793316819</updated>
+     </task>
+-    <task id="LOCAL-00001" summary="inheritance practice programs">
+-      <option name="closed" value="true" />
+-      <created>1724772369173</created>
++    <task id="LOCAL-00001" summary="dictionary">
++      <created>1721128225123</created>
+       <option name="number" value="00001" />
+       <option name="presentableId" value="LOCAL-00001" />
+       <option name="project" value="LOCAL" />
+-      <updated>1724772369173</updated>
++      <updated>1721128225123</updated>
+     </task>
+-    <task id="LOCAL-00002" summary="selenium pratics">
+-      <option name="closed" value="true" />
+-      <created>1725284502387</created>
++    <task id="LOCAL-00002" summary="dictionary">
++      <created>1721130627525</created>
+       <option name="number" value="00002" />
+       <option name="presentableId" value="LOCAL-00002" />
+       <option name="project" value="LOCAL" />
+-      <updated>1725284502387</updated>
++      <updated>1721130627525</updated>
+     </task>
+-    <task id="LOCAL-00003" summary="selenium pratics">
+-      <option name="closed" value="true" />
+-      <created>1725284627194</created>
++    <task id="LOCAL-00003" summary="dictionary">
++      <created>1721130837284</created>
+       <option name="number" value="00003" />
+       <option name="presentableId" value="LOCAL-00003" />
+       <option name="project" value="LOCAL" />
+-      <updated>1725284627194</updated>
++      <updated>1721130837284</updated>
+     </task>
+-    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+-      <option name="closed" value="true" />
+-      <created>1726122256943</created>
++    <task id="LOCAL-00004" summary="if else">
++      <created>1721220012235</created>
+       <option name="number" value="00004" />
+       <option name="presentableId" value="LOCAL-00004" />
+       <option name="project" value="LOCAL" />
+-      <updated>1726122256943</updated>
++      <updated>1721220012235</updated>
+     </task>
+-    <task id="LOCAL-00005" summary="demo apllication">
+-      <option name="closed" value="true" />
+-      <created>1726240271589</created>
++    <task id="LOCAL-00005" summary="Basic Program1">
++      <created>1721220418386</created>
+       <option name="number" value="00005" />
+       <option name="presentableId" value="LOCAL-00005" />
+       <option name="project" value="LOCAL" />
+-      <updated>1726240271589</updated>
++      <updated>1721220418386</updated>
+     </task>
+-    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'">
+-      <option name="closed" value="true" />
+-      <created>1726584208242</created>
++    <task id="LOCAL-00006" summary="New program">
++      <created>1721220670916</created>
+       <option name="number" value="00006" />
+       <option name="presentableId" value="LOCAL-00006" />
+       <option name="project" value="LOCAL" />
+-      <updated>1726584208242</updated>
++      <updated>1721220670916</updated>
++    </task>
++    <task id="LOCAL-00007" summary="if else">
++      <created>1721220877088</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1721220877088</updated>
++    </task>
++    <task id="LOCAL-00008" summary="if else">
++      <created>1721221215103</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1721221215103</updated>
++    </task>
++    <task id="LOCAL-00009" summary="loop">
++      <created>1721739021724</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1721739021724</updated>
++    </task>
++    <task id="LOCAL-00010" summary="Dictionaries">
++      <created>1723465629744</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1723465629744</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00011" summary="String">
++      <created>1723466886888</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1723466886888</updated>
++    </task>
++    <task id="LOCAL-00012" summary="List">
++      <created>1723468960006</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1723468960006</updated>
++    </task>
++    <task id="LOCAL-00013" summary="Tuple">
++      <created>1723524888119</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1723524888119</updated>
++    </task>
++    <task id="LOCAL-00014" summary="Set">
++      <created>1723527578897</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1723527578897</updated>
++    </task>
++    <task id="LOCAL-00015" summary="selenium practice files">
++      <created>1726584783247</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1726584783247</updated>
++    </task>
++    <option name="localTasksCounter" value="16" />
+     <servers />
+   </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="Oops practice programs" />
+-    <MESSAGE value="inheritance practice programs" />
+-    <MESSAGE value="selenium pratics" />
+-    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+-    <MESSAGE value="demo apllication" />
+-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+-  <component name="XDebuggerManager">
+-    <breakpoint-manager>
+-      <breakpoints>
+-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+-          <url>file://$PROJECT_DIR$/Subham/python programming/Automation_program/sqa_tool/first_program.py</url>
+-          <line>28</line>
+-          <option name="timeStamp" value="1" />
+-        </line-breakpoint>
+-      </breakpoints>
+-    </breakpoint-manager>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="dictionary" />
++    <MESSAGE value="Basic Program1" />
++    <MESSAGE value="New program" />
++    <MESSAGE value="if else" />
++    <MESSAGE value="loop" />
++    <MESSAGE value="Dictionaries" />
++    <MESSAGE value="String" />
++    <MESSAGE value="List" />
++    <MESSAGE value="Tuple" />
++    <MESSAGE value="Set" />
++    <MESSAGE value="selenium practice files" />
++    <option name="LAST_COMMIT_MESSAGE" value="selenium practice files" />
+   </component>
+ </project>
+\ No newline at end of file
