@@ -1,0 +1,3 @@
+command to execute code with custom params like browser and headless mode
+
+python -m pytest -v --browser=chrome --headless=True .\tests\dummy_website\
