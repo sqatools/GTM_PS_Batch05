@@ -6,7 +6,7 @@ from selenium import webdriver
 def get_driver(request):
     driver = webdriver.Chrome()
     driver.maximize_window()
-    driver.get("https://automationbysqatools.blogspot.com/2021/05/dummy-website.html")
+    driver.get("https://www.amazon.com/")
     request.cls.driver = driver
     yield
     driver.close()
