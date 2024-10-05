@@ -10,7 +10,7 @@ class DummyBooking(SeleniumBase):
         self.click_element(correct_option)
 
     def enter_firstname(self, firstname):
-        self.send_text(first_name, firstname) # should we always keep the same method name as the base class?
+        self.send_text(first_name, firstname)
 
     def enter_lastname(self, lastname):
         self.send_text(last_name, lastname)
@@ -21,7 +21,7 @@ class DummyBooking(SeleniumBase):
     def select_gender_radio_btn(self):
         self.click_element(male_radio_button)
 
-    def select_additional_passengers_from_dd(self, dropdown_value): #why do we have dropdown_value param when we only need to click on the dd
+    def select_additional_passengers_from_dd(self, dropdown_value):
         self.select_value_from_dropdown(no_of_passenger_dropdown, dropdown_value)
 
     def roundtrip_radio_btn(self):
@@ -58,7 +58,7 @@ class DummyBooking(SeleniumBase):
         self.send_text(address, street_address_field)
 
     def select_country_from_dd(self, country_dropdown_value):
-        self.select_value_from_dropdown(country, country_dropdown_value)
+        self.select_value_from_dropdown(country_dropdown, country_dropdown_value)
 
     def enter_postcode(self, post_code_field):
         self.send_text(postcode, post_code_field)
