@@ -39,7 +39,7 @@ select_obj.select_by_visible_text("India")
 
 
 pass_dd_elem = get_element(locator=(By.ID, "admorepass"))
-select2 = Select(pass_dd_elem)
+select2 = visiSelect(pass_dd_elem)
 select2.select_by_visible_text("Add 3 more passenger (200%)")
 
 time.sleep(5)

@@ -30,7 +30,6 @@ wait = WebDriverWait(driver, timeout=20, poll_frequency=2)
 driver.get("https://automationbysqatools.blogspot.com/2021/05/dummy-website.html")
 
 driver.find_element(By.CSS_SELECTOR, "input[name^='fromcity']").send_keys("Mumbai")
-
 time.sleep(10) # static wait
 
 t1 = time.time()
@@ -43,6 +42,7 @@ print("total timeout :", t2-t1)
 
 a1 = time.time()
 try:
+    wait.until(ec.visibility_of_element_located((By.ID, "billing_name"))).send_keys("John")
     wait.until(ec.visibility_of_element_located((By.ID, "billing_name"))).send_keys("John")
 except:
     pass
