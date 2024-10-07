@@ -17,7 +17,7 @@ billing_name = (By.ID, "billing_name")
 phone = (By.ID, "billing_phone")
 email = (By.ID, "billing_email")
 address = (By.ID, "billing_address")
-country = (By.ID, "billing_country")
+country_dropdown = (By.ID, "billing_country")
 postcode = (By.ID, "postcode")
 street_address = (By.ID, "street_address1")
 most_visited_cities_radio_btn = (By.XPATH, "(//input[@type='checkbox'])[2]")  #Pune

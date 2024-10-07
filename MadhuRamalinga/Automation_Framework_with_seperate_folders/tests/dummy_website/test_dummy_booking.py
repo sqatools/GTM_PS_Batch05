@@ -16,7 +16,7 @@ class TestDummyBooking:
         self.dummy_book.enter_lastname('Melon')
         self.dummy_book.enter_dob('11/15/2023')
         self.dummy_book.select_gender_radio_btn()
-        self.dummy_book.select_additional_passengers_from_dd()
+        self.dummy_book.select_additional_passengers_from_dd("I'm the only one traveler")
         self.dummy_book.roundtrip_radio_btn()
         self.dummy_book.enter_from_city('Bangalore')
         self.dummy_book.enter_dest_city('Delhi')
@@ -28,7 +28,9 @@ class TestDummyBooking:
         self.dummy_book.enter_phone('7337879327')
         self.dummy_book.enter_email_address('coco@gmail.com')
         self.dummy_book.enter_street_address('HAL Old Airport Road')
-        self.dummy_book.select_country_from_dd()
+        self.dummy_book.select_country_from_dd('India')
         self.dummy_book.enter_postcode('560017')
         self.dummy_book.enter_street_address1('HAL, Bangalore')
         self.dummy_book.select_most_visited_cities_radio_btn()
+
+#command - python -m pytest -v -s .\tests\dummy_website\test_dummy_booking.py
