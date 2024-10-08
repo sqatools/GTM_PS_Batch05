@@ -15,9 +15,6 @@ driver.implicitly_wait(20)
 driver.get("https://www.facebook.com")
 driver.find_element(By.NAME, "email").send_keys("TestAdmin")
 driver.find_element(By.NAME, "pass").send_keys("Admin@12345")
-time.sleep(5)
 driver.find_element(By.NAME, "login").click()
 # wait for 10 sec.
-time.sleep(10)
-
 driver.close()

@@ -1,0 +1,22 @@
+API Types :
+
+-> SOUP API
+-> Rest API
+
+Protocol : http
+HTTP Methods :
+
+-> GET
+-> POST
+-> PUT
+-> PATCH
+-> DELETE
+
+API Response Code:
+
+100 - 199 : Information status
+200 - 299 : Success status
+300 - 399 : Re-directional status
+400 - 499 : Client Error Code
+500 - 599 : Server Error Code
+
