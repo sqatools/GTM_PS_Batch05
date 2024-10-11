@@ -31,7 +31,7 @@ def get_specific_ids():
 
     print(response.text)
 
-# get_specific_ids()
+get_specific_ids()
 def get_one_single_ids():
     url = "https://api.restful-api.dev/objects/7"
 
@@ -39,10 +39,11 @@ def get_one_single_ids():
     headers = {}
 
     response = requests.request("GET", url, headers=headers, data=payload)
+    response = response.json()
+    print(response)
+    #print(response.text)
 
-    print(response.text)
-
-#get_one_single_ids()
+get_one_single_ids()
 
 def create_new_entry():
 
@@ -115,7 +116,7 @@ def patch_mobile_details(id):
 # {"error":"The Object with id = ff808181923ed5e2019276f9c7007394 doesn't exist. Please provide an object id which exists or generate a new Object using POST request and capture the id of it to use it as part of PATCH request after that."}
 # 404
 
-patch_mobile_details("1")
+# patch_mobile_details("1")
 
 def delete_mobile_details(id):
 
