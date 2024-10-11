@@ -1,8 +1,8 @@
 import requests
 import json
 
-def execute_delete_method():
-    url = "https://api.restful-api.dev/objects/6"
+def execute_delete_method(id):
+    url = f"https://api.restful-api.dev/objects/{id}"
 
     payload = {}
     headers = {}
@@ -12,4 +12,7 @@ def execute_delete_method():
     print(response.text)
     print(response.status_code)
 
-execute_delete_method()
+execute_delete_method("ff808181923ed5e2019278ff089c7715")
+
+#output - {"message":"Object with id = ff808181923ed5e2019278ff089c7715 has been deleted."}
+#200
