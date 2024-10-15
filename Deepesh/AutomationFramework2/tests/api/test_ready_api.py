@@ -3,20 +3,24 @@ from modules.api.ready_to_use_api import ReadyTOUseAPI
 
 class TestReadyToUseAPI:
 
+    @pytest.mark.api_test
     @pytest.fixture(autouse=True)
     def setup(self):
         self.api_obj = ReadyTOUseAPI()
 
+    @pytest.mark.api_test
     def test_total_entries(self):
          total_entry = self.api_obj.verify_total_mobile_entry()
          assert total_entry[0] == 13
          assert total_entry[1] == 200
 
+    @pytest.mark.api_test
     def test_spefic_list_id_entries(self):
          response_data = self.api_obj.verify_to_get_details_for_id_list([5, 7, 8])
          assert len(response_data[0]) == 3
          assert response_data[1] == 200
 
+    @pytest.mark.api_test
     def test_create_new_entry_in_db(self):
         response_data = self.api_obj.create_new_entry_of_mobile_details()
         assert response_data[1] == 200

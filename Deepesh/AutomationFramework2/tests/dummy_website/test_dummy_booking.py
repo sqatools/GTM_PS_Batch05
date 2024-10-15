@@ -8,6 +8,7 @@ class TestDummyBooking:
     def setup(self):
         self.dummy_book = DummyBooking(self.driver)
 
+    @pytest.mark.dummy
     def test_dummy_booking(self):
         self.driver.get("https://automationbysqatools.blogspot.com/2021/05/dummy-website.html")
         self.dummy_book.enter_firstname('John')
