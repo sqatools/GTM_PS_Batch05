@@ -13,7 +13,7 @@ from ..session_data import *
 def get_driver(request):
     driver = webdriver.Chrome()
     driver.maximize_window()
-    driver.get(url)
+    driver.get("https://google.co.in")
     request.cls.driver = driver
     yield
     driver.close()
