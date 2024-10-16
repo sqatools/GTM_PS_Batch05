@@ -31,5 +31,5 @@ class TestAmazonWebsite:
         time.sleep(5)
 
 
-#command - python -m pytest -v -s .\tests\amazon_website\test_amazon_website.py
+#command: python -m pytest -v -s .\tests\amazon_website\test_amazon_website.py
 

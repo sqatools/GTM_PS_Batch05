@@ -1,0 +1,179 @@
+Index: Subham/Automation_framework/module/Booking_com/Booking_page_class_data.py
+===================================================================
+diff --git a/Subham/Automation_framework/module/Booking_com/Booking_page_class_data.py b/Subham/Automation_framework/module/Booking_com/Booking_page_class_data.py
+new file mode 100644
+--- /dev/null	
++++ b/Subham/Automation_framework/module/Booking_com/Booking_page_class_data.py	
+@@ -0,0 +1,6 @@
++list1 = [ 10, 13, 6, 7, 17, 3, 8, 19]
++for i in list1:
++ if (i%2==0):
++  print(i, "is even")
++ else:
++  print(i, "is odd")
+Index: Subham/pytest-selenium/test_dummy_website.py
+===================================================================
+diff --git a/Subham/pytest-selenium/test_dummy_website.py b/Subham/pytest-selenium/test_dummy_website.py
+new file mode 100644
+--- /dev/null	
++++ b/Subham/pytest-selenium/test_dummy_website.py	
+@@ -0,0 +1,131 @@
++import time
++
++import pytest
++from selenium.webdriver.common.by import By
++from selenium.webdriver.support.select import Select
++
++@pytest.mark.usefixtures("get_driver")
++class TestDummyWebsite:
++
++    def test_enter_passanger_details(self):
++        self.driver.find_element(By.XPATH, "(//input[@type='radio'])[1]").click()
++        self.driver.find_element(By.XPATH, "(//input[@name='firstname'])[1]").send_keys("subham")
++        self.driver.find_element(By.XPATH, "(//input[@name='firstname'])[2]").send_keys("behera")
++        self.driver.find_element(By.XPATH, "//input[@id='birthday']").send_keys("05/23/1995")
++        self.driver.find_element(By.XPATH, "//input[@id='male']").click()
++        time.sleep(10)
++    def test_enter_travel_details(self):
++        add_more_pass_dd = self.driver.find_element(By.XPATH, "//select[@id='admorepass']")
++        select_obj = Select (add_more_pass_dd)
++        select_obj.select_by_visible_text("Add 3 more passenger (200%)")
++
++        self.driver.find_element(By.XPATH, "//input[@id='oneway']").click()
++        self.driver.find_element(By.XPATH, "//input[@name='fromcity']").send_keys("mumbai")
++        self.driver.find_element(By.XPATH, "//input[@name='destcity']").send_keys("pune")
++        self.driver.find_element(By.XPATH, "//input[@id='departdate']").send_keys("12/25/2024")
++        time.sleep(10)
++
++    def test_enter_visa_deatils(self):
++        self.driver.find_element(By.XPATH, "//input[@id='visadate']").send_keys("12/23/2024")
++        time.sleep(5)
++
++    def test_enter_ticket_deatils(self):
++        self.driver.find_element(By.XPATH, "(//input[@id='female'])[2]").click()
++        time.sleep(5)
++
++    def test_enter_billing_deatils(self):
++        self.driver.find_element(By.XPATH, "//input[@id='billing_name']").send_keys("subham behera")
++        self.driver.find_element(By.XPATH, "//input[@id='billing_phone']").send_keys("7008619711")
++        self.driver.find_element(By.XPATH, "//input[@id='billing_email']").send_keys("55subhambehera@gmail.com")
++        self.driver.find_element(By.XPATH, "//input[@id='billing_address']").send_keys("cuttack odisha")
++        time.sleep(2)
++        add_con_deatils=self.driver.find_element(By.XPATH, "//select[@id='billing_country']")
++        select_obj = Select (add_con_deatils)
++        select_obj.select_by_index(13)
++        self.driver.find_element(By.XPATH, "//input[@name='postcode']").send_keys("753001")
++        self.driver.find_element(By.XPATH, "//input[@name='prefecture']").send_keys("cuttack")
++        self.driver.find_element(By.XPATH, "//input[@id='street_address1']").send_keys("c/o chitta ranjan behera pratima nivas")
++        self.driver.find_element(By.XPATH, "//input[@id='street_address2']").send_keys("mangalbag cuttack")
++        time.sleep(10)
++
++    def test_enter_most_vist_deatils(self):
++        self.driver.find_element(By.XPATH, "(//input[@type='checkbox'])[4]").click()
++        time.sleep(10)
++
++    def test_enter_contact_from_deatils(self):
++        self.driver.find_element(By.XPATH, "//input[@id='ContactForm2_contact-form-name']").send_keys("subham behera")
++        self.driver.find_element(By.XPATH, "//input[@id='ContactForm2_contact-form-email']").send_keys("55subhambehera@gmail.com")
++        self.driver.find_element(By.XPATH, "//textarea[@id='ContactForm2_contact-form-email-message']").send_keys("thanku so much")
++        self.driver.find_element(By.XPATH, "//input[@id='ContactForm2_contact-form-submit']").click()
++        time.sleep(10)
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+Index: Subham/pytest-selenium/conftest.py
+===================================================================
+diff --git a/Subham/pytest-selenium/conftest.py b/Subham/pytest-selenium/conftest.py
+new file mode 100644
+--- /dev/null	
++++ b/Subham/pytest-selenium/conftest.py	
+@@ -0,0 +1,14 @@
++import pytest
++from selenium import webdriver
++from selenium.webdriver.common.by import By
++
++@pytest.fixture(scope='class')
++def get_driver(request):
++    driver = webdriver.Chrome()
++    driver.get("https://automationbysqatools.blogspot.com/2021/05/dummy-website.html")
++    driver.maximize_window()
++    driver.implicitly_wait(20)
++    #hold value of driver in driver variable for any class
++    request.cls.driver = driver
++    yield
++    driver.close()
+\ No newline at end of file
+diff --git a/Subham/Automation_framework/module/Booking_com/__init__.py b/Subham/Automation_framework/module/Booking_com/__init__.py
+new file mode 100644
+diff --git a/Subham/pytest-selenium/__init__.py b/Subham/pytest-selenium/__init__.py
+new file mode 100644
+diff --git a/Subham/Automation_framework/module/__init__.py b/Subham/Automation_framework/module/__init__.py
+new file mode 100644
