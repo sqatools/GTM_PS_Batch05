@@ -22,14 +22,17 @@ class ReadyToUseAPI(APIBase):
         response = self.post_method(url=api_url, header=json_headers, payload=create_entry_payload)
         return response
 
-    def update_mobile_details(self):
-        response = self.put_method(url=api_url, header=json_headers, payload=update_payload)
+    def update_mobile_details(self, id):
+        url = f"{api_url}/{id}"
+        response = self.put_method(url=url, header=json_headers, payload=update_mobile)
         return response
 
-    def partial_update_mobile_details(self):
-        response = self.get_patch(url=api_url, header=json_headers, payload=partial_update_payload)
+    def partial_update_mobile_details(self, id):
+        url = f"{api_url}/{id}"
+        response = self.get_patch(url=url, header=json_headers, payload=partial_update)
         return response
 
-    def delete_mobile_details(self):
-        response = self.delete_method(url=api_url, header=json_headers, payload=delete_payload)
+    def delete_mobile_details(self, id):
+        url = f"{api_url}/{id}"
+        response = self.delete_method(url=url, header=json_headers, payload=delete_details)
         return response

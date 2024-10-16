@@ -19,18 +19,26 @@ class TestReadyToUseAPI:
     def test_create_new_entry_in_db(self):
         response_data = self.api_obj.create_new_entry_of_mobile_details()
         assert response_data[1] == 200
-        self.api_obj.log.info(f"new id: {response_data[0]['id']}")
+        #self.api_obj.log.info(f"new id: {response_data[0]['id']}")
 
     def test_update_specific_list_id(self):
-        response_data = self.api_obj.update_mobile_details(5)
+        response_data = self.api_obj.create_new_entry_of_mobile_details()
+        new_id = response_data[0]['id']
+        assert response_data[1] == 200
+        response_data = self.api_obj.update_mobile_details(new_id)
         assert response_data[1] == 200
 
     def test_partial_update_specific_list_id(self):
-        response_data = self.api_obj.partial_update_mobile_details(8)
+        response_data = self.api_obj.create_new_entry_of_mobile_details()
+        new_id = response_data[0]['id']
+        response_data = self.api_obj.partial_update_mobile_details(new_id)
         assert response_data[1] == 200
+        print(f"server new ID : {new_id}")
 
     def test_delete_specific_list_id(self):
-        response_data = self.api_obj.delete_mobile_details(7)
+        response_data = self.api_obj.create_new_entry_of_mobile_details()
+        new_id = response_data[0]['id']
+        response_data = self.api_obj.delete_mobile_details(new_id)
         assert response_data[1] == 200
 
 #command: python -m pytest -v .\tests\api\test_ready_api.p
