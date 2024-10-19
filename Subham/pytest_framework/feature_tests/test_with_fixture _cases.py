@@ -39,3 +39,22 @@ def test_divison(fun_setup):
     a = 50
     b = 10
     assert (a/b) == 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
