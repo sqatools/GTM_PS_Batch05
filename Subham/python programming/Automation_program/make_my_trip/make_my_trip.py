@@ -1,5 +1,5 @@
 #make my trip
-
+"""
 1)#image make my trip =//img[@alt="Make My Trip"]
 
 2)#one way radio button = //li[@data-cy="roundTrip"]
@@ -57,7 +57,7 @@
 #parent
 
 #//a[@id="superOffersTab_FLIGHTS"]//parent::li
-
+"""
 
 import pytest
 from selenium import webdriver
@@ -100,6 +100,7 @@ class TestDummyWebsite:
         time.sleep()
 
     def test_enter_add_pass_deatils(self):
+        pass
 
 
 
