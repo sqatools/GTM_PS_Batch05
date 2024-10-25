@@ -1,5 +1,5 @@
 #make my trip
-
+"""
 1)#image make my trip =//img[@alt="Make My Trip"]
 
 2)#one way radio button = //li[@data-cy="roundTrip"]
@@ -57,9 +57,50 @@
 #parent
 
 #//a[@id="superOffersTab_FLIGHTS"]//parent::li
+"""
+
+import pytest
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+@pytest.fixture(scope='class')
+def get_driver(request):
+    driver = webdriver.Chrome()
+    driver.get("https://automationbysqatools.blogspot.com/2021/05/dummy-website.html")
+    driver.maximize_window()
+    driver.implicitly_wait(20)
+    #hold value of driver in driver variable  for any class
+    request.cls.driver = driver
+    yield
+    driver.close()
 
 
 
+
+
+
+import time
+
+import pytest
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.select import Select
+
+from GTM_PS_Batch05.MadhuRamalinga.Pytest_Selenium.conftest import get_driver
+
+
+@pytest.mark.usefixture("get_driver")
+class TestDummyWebsite:
+
+    def test_enter_user_deatils(self):
+        self.driver.find_element(By.XPATH,"(//input[@type='radio'])[1]").click()
+        self.driver.find_element(By.XPATH,"(//input[@name='firstname'])[1]").send_keys("Subham")
+        self.driver.find_element(By.XPATH,"(//input[@id='[irstname'])[2]").send_keys("Behera")
+        self.driver.find_element(By.XPATH,"//input[@id='birthday']").send_keys("05/23/1993")
+        self.driver.find_element(By.XPATH,"//input[@id="male"]").click()
+        time.sleep()
+
+    def test_enter_add_pass_deatils(self):
+        pass
 
 
 
