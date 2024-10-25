@@ -83,8 +83,9 @@ class BookingDotComPage(SeleniumBase):
         self.send_text(child_ln, ch_ln)
         self.select_value_from_dropdown(child_gender, ch_gender_dd)
         self.send_text(dob_date, date)
-        self.select_value_from_dropdown(dob_month, month_dd)
-        select_month = Select(dob_month)
+        dob_month_element = self.get_element(dob_month)
+        #self.select_value_from_dropdown(dob_month, month_dd)
+        select_month = Select(dob_month_element)
         select_month.select_by_visible_text(month_dd)
         self.send_text(dob_year, year)
         self.click_element(done_button3)
@@ -93,8 +94,11 @@ class BookingDotComPage(SeleniumBase):
         self.send_text(contact_details, contact_email)
         #self.select_value_from_dropdown(country_code_dd, cc_dd)
         self.send_text(phone_number, ph_no)
+        self.wait_for_element_to_be_visible(next_button_details_page, timeout=10)
         self.click_element(next_button_details_page)
+        self.wait_for_element_to_be_visible(next_button_travel_ins, timeout=10)
         self.click_element(next_button_travel_ins)
+        time.sleep(5)
         self.click_element(skip_button)
 
 

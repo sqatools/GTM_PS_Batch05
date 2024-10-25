@@ -31,7 +31,7 @@ class TestBookingWebsite:
         self.booking_website.enter_traveler_details2('Ellie', 'El', 'Female')
         #time.sleep(3)
         self.booking_website.enter_child_details('Peaches', 'Peach', 'Female', '15', 'November', '2019')
-        time.sleep(3)
+        #time.sleep(3)
         self.booking_website.enter_contact_details('madhu.ramalinga24@gmail.com', '3345901498')
 
 
